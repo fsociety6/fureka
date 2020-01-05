@@ -1,0 +1,3548 @@
+[
+  {
+    "name": "Apple Scab",
+    "scientific_name": "Venturia inaequalis",
+    "url": "https://plantix.net/en/library/plant-diseases/100006/apple-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Powdery Mildew",
+    "scientific_name": "Erysiphaceae",
+    "url": "https://plantix.net/en/library/plant-diseases/100002/powdery-mildew/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Woolly Aphid",
+    "scientific_name": "Eriosoma lanigerum",
+    "url": "https://plantix.net/en/library/plant-diseases/600005/woolly-aphid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Thrips",
+    "scientific_name": "Thysanoptera",
+    "url": "https://plantix.net/en/library/plant-diseases/600003/thrips/",
+    "type": "Insect"
+  },
+  {
+    "name": "European Red Mite",
+    "scientific_name": "Panonychus ulmi",
+    "url": "https://plantix.net/en/library/plant-diseases/500003/european-red-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Apple Mosaic Virus",
+    "scientific_name": "APMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200001/apple-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Leaf Miner Flies",
+    "scientific_name": "Agromyzidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600022/leaf-miner-flies/",
+    "type": "Insect"
+  },
+  {
+    "name": "Aphids",
+    "scientific_name": "Aphidoidea",
+    "url": "https://plantix.net/en/library/plant-diseases/600002/aphids/",
+    "type": "Insect"
+  },
+  {
+    "name": "Calcium Deficiency",
+    "scientific_name": "Calcium Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700003/calcium-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Botrytis Blight",
+    "scientific_name": "Botrytis cinerea",
+    "url": "https://plantix.net/en/library/plant-diseases/100081/botrytis-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Zinc Deficiency",
+    "scientific_name": "Zinc Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700048/zinc-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Sulfur Deficiency",
+    "scientific_name": "Sulfur Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700047/sulfur-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Sugarcane Yellow Leaf Virus",
+    "scientific_name": "Sugarcane Yellow Leaf Virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200066/sugarcane-yellow-leaf-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Mango Scab",
+    "scientific_name": "Elsino\u00eb mangiferae",
+    "url": "https://plantix.net/en/library/plant-diseases/100330/mango-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Malformation",
+    "scientific_name": "Fusarium mangiferae",
+    "url": "https://plantix.net/en/library/plant-diseases/100329/mango-malformation/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Midge",
+    "scientific_name": "Procontarinia sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600301/mango-midge/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mango Leaf Webber",
+    "scientific_name": "Orthaga euadrusalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600297/mango-leaf-webber/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pomegranate Fruit Borer",
+    "scientific_name": "Deudorix Isocrates",
+    "url": "https://plantix.net/en/library/plant-diseases/600296/pomegranate-fruit-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Red Pumpkin Beetle",
+    "scientific_name": "Aulacophora foveicollis",
+    "url": "https://plantix.net/en/library/plant-diseases/600290/red-pumpkin-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Helicoverpa Caterpillar",
+    "scientific_name": "Helicoverpa armigera",
+    "url": "https://plantix.net/en/library/plant-diseases/600289/helicoverpa-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pod Fly",
+    "scientific_name": "Melanagromyza obtusa",
+    "url": "https://plantix.net/en/library/plant-diseases/600270/pod-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Gram Blue Butterfly",
+    "scientific_name": "Euchrysops cnejus",
+    "url": "https://plantix.net/en/library/plant-diseases/600267/gram-blue-butterfly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Soybean Looper",
+    "scientific_name": "Pseudoplusia includens",
+    "url": "https://plantix.net/en/library/plant-diseases/600041/soybean-looper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Leaf Miner",
+    "scientific_name": "Phyllocnistis citrella",
+    "url": "https://plantix.net/en/library/plant-diseases/600122/citrus-leaf-miner/",
+    "type": "Insect"
+  },
+  {
+    "name": "Hadda Beetle",
+    "scientific_name": "Epilachna vigintioctopunctata",
+    "url": "https://plantix.net/en/library/plant-diseases/600018/hadda-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Potato Tuber Moth",
+    "scientific_name": "Phthorimaea operculella",
+    "url": "https://plantix.net/en/library/plant-diseases/600117/potato-tuber-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Tomato Spotted Wilt Virus",
+    "scientific_name": "TSWV",
+    "url": "https://plantix.net/en/library/plant-diseases/200035/tomato-spotted-wilt-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Grassy Shoot of Sugarcane",
+    "scientific_name": "Sugarcane grassy shoot phytoplasma",
+    "url": "https://plantix.net/en/library/plant-diseases/300059/grassy-shoot-of-sugarcane/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Anthracnose of Blackgram",
+    "scientific_name": "Colletotrichum lindemuthianum",
+    "url": "https://plantix.net/en/library/plant-diseases/100177/anthracnose-of-blackgram/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Stem Rot of Rice",
+    "scientific_name": "Magnaporthe salvinii",
+    "url": "https://plantix.net/en/library/plant-diseases/100179/stem-rot-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rice Leafroller",
+    "scientific_name": "Cnaphalocrocis medinalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600105/rice-leafroller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Little Leaf of Brinjal",
+    "scientific_name": "Phytoplasma",
+    "url": "https://plantix.net/en/library/plant-diseases/300055/little-leaf-of-brinjal/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "False Smut",
+    "scientific_name": "Villosiclava virens",
+    "url": "https://plantix.net/en/library/plant-diseases/100162/false-smut/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Southern Leaf Blight of Maize",
+    "scientific_name": "Cochliobolus heterostrophus",
+    "url": "https://plantix.net/en/library/plant-diseases/100161/southern-leaf-blight-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Violet Stem Borer",
+    "scientific_name": "Sesamia inferens",
+    "url": "https://plantix.net/en/library/plant-diseases/600035/violet-stem-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Rice Bug",
+    "scientific_name": "Leptocorisa spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600097/rice-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Yellow Stem Borer",
+    "scientific_name": "Scirpophaga incertulas",
+    "url": "https://plantix.net/en/library/plant-diseases/600093/yellow-stem-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Wilt Disease of Sugarcane",
+    "scientific_name": "Gibberella fujikuroi",
+    "url": "https://plantix.net/en/library/plant-diseases/100157/wilt-disease-of-sugarcane/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bacterial Soft Rot of Pepper",
+    "scientific_name": "Pectobacterium carotovorum subsp. carotovorum",
+    "url": "https://plantix.net/en/library/plant-diseases/300029/bacterial-soft-rot-of-pepper/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Sterility Mosaic",
+    "scientific_name": "PPSMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200024/sterility-mosaic/",
+    "type": "Virus"
+  },
+  {
+    "name": "Root Borer",
+    "scientific_name": "Cosmopolites sordidus",
+    "url": "https://plantix.net/en/library/plant-diseases/600033/root-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Anthracnose of Pepper",
+    "scientific_name": "Colletotrichum sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100156/anthracnose-of-pepper/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Fall Armyworm",
+    "scientific_name": "Spodoptera frugiperda",
+    "url": "https://plantix.net/en/library/plant-diseases/600039/fall-armyworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Leafhoppers and Jassids",
+    "scientific_name": "Amrasca spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600089/leafhoppers-and-jassids/",
+    "type": "Insect"
+  },
+  {
+    "name": "Charcoal Rot of Soybean",
+    "scientific_name": "Macrophomina phaseolina",
+    "url": "https://plantix.net/en/library/plant-diseases/100174/charcoal-rot-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rhizoctonia Aerial Blight",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100169/rhizoctonia-aerial-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Gummosis",
+    "scientific_name": "Botryosphaeria dothidea",
+    "url": "https://plantix.net/en/library/plant-diseases/100148/gummosis/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tobacco Caterpillar",
+    "scientific_name": "Spodoptera litura",
+    "url": "https://plantix.net/en/library/plant-diseases/600046/tobacco-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Sooty Mold",
+    "scientific_name": "Pezizomycotina",
+    "url": "https://plantix.net/en/library/plant-diseases/100192/sooty-mold/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Yellow Leaf Curl Virus",
+    "scientific_name": "TYLCV",
+    "url": "https://plantix.net/en/library/plant-diseases/200036/tomato-yellow-leaf-curl-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bacterial Blight of Pomegranate",
+    "scientific_name": "Xanthomonas axonopodis pv. punicae",
+    "url": "https://plantix.net/en/library/plant-diseases/300058/bacterial-blight-of-pomegranate/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bacterial Wilt",
+    "scientific_name": "Ralstonia solanacearum",
+    "url": "https://plantix.net/en/library/plant-diseases/300028/bacterial-wilt/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Urd Bean Leaf Crinkle Virus",
+    "scientific_name": "ULCV",
+    "url": "https://plantix.net/en/library/plant-diseases/200034/urd-bean-leaf-crinkle-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Early Blight",
+    "scientific_name": "Alternaria solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100321/early-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spiny Bollworm",
+    "scientific_name": "Earias insulana",
+    "url": "https://plantix.net/en/library/plant-diseases/600229/spiny-bollworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Spot of Tomato",
+    "scientific_name": "Xanthomonas spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/300050/bacterial-spot-of-tomato/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Mealybug",
+    "scientific_name": "Pseudococcidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600019/mealybug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mediterranean Fruit Fly",
+    "scientific_name": "Ceratitis capitata",
+    "url": "https://plantix.net/en/library/plant-diseases/600057/mediterranean-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bunchy Top Virus",
+    "scientific_name": "Bunchy Top Virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200020/bunchy-top-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Citrus Canker",
+    "scientific_name": "Xanthomonas axonopodis pv. citri",
+    "url": "https://plantix.net/en/library/plant-diseases/300020/citrus-canker/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Whiteflies",
+    "scientific_name": "Aleyrodidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600015/whiteflies/",
+    "type": "Insect"
+  },
+  {
+    "name": "White Grub",
+    "scientific_name": "Holotrichia spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600114/white-grub/",
+    "type": "Insect"
+  },
+  {
+    "name": "Banana Streak Virus",
+    "scientific_name": "Banana Streak Virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200018/banana-streak-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Citrus Tristeza Virus",
+    "scientific_name": "CTV",
+    "url": "https://plantix.net/en/library/plant-diseases/200025/citrus-tristeza-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bacterial Leaf Blight of Bean",
+    "scientific_name": "Xanthomonas axonopodis pv. phaseoli",
+    "url": "https://plantix.net/en/library/plant-diseases/300031/bacterial-leaf-blight-of-bean/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Pyricularia Leaf Spot",
+    "scientific_name": "Magnaporthe oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/100120/pyricularia-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Root Rot of Lentil",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/800038/root-rot-of-lentil/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spotted Pod Borer",
+    "scientific_name": "Maruca vitrata",
+    "url": "https://plantix.net/en/library/plant-diseases/600056/spotted-pod-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Black Citrus Aphid",
+    "scientific_name": "Toxoptera aurantii",
+    "url": "https://plantix.net/en/library/plant-diseases/600157/black-citrus-aphid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Gram Pod Borer",
+    "scientific_name": "Helicoverpa armigera",
+    "url": "https://plantix.net/en/library/plant-diseases/600054/gram-pod-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Ring Spot Virus",
+    "scientific_name": "PRSV",
+    "url": "https://plantix.net/en/library/plant-diseases/200015/ring-spot-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bacterial Spot of Pepper",
+    "scientific_name": "Xanthomonas spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/300003/bacterial-spot-of-pepper/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bacterial Leaf Blight of Sugarcane",
+    "scientific_name": "Acidovorax avenae",
+    "url": "https://plantix.net/en/library/plant-diseases/300027/bacterial-leaf-blight-of-sugarcane/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Powdery Mildew of Cereals",
+    "scientific_name": "Blumeria graminis",
+    "url": "https://plantix.net/en/library/plant-diseases/100220/powdery-mildew-of-cereals/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cotton Leafhopper Jassids",
+    "scientific_name": "Amrasca devastans",
+    "url": "https://plantix.net/en/library/plant-diseases/600173/cotton-leafhopper-jassids/",
+    "type": "Insect"
+  },
+  {
+    "name": "Yellow Stripe Rust",
+    "scientific_name": "Puccinia striiformis",
+    "url": "https://plantix.net/en/library/plant-diseases/100062/yellow-stripe-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "url": "https://plantix.net/en/library/plant-diseases/100046/tomato-late-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Gummosis of Citrus",
+    "scientific_name": "Phytophthora spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100129/gummosis-of-citrus/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Potato Late Blight",
+    "scientific_name": "Phytophthora infestans",
+    "url": "https://plantix.net/en/library/plant-diseases/100040/potato-late-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cotton Semilooper",
+    "scientific_name": "Anomis flava",
+    "url": "https://plantix.net/en/library/plant-diseases/600228/cotton-semilooper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mango Fruit Fly",
+    "scientific_name": "Ceratitis cosyra",
+    "url": "https://plantix.net/en/library/plant-diseases/600016/mango-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Anthracnose of Papaya and Mango",
+    "scientific_name": "Colletotrichum gloeosporioides",
+    "url": "https://plantix.net/en/library/plant-diseases/100068/anthracnose-of-papaya-and-mango/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Sigatoka",
+    "scientific_name": "Mycosphaerella fijiensis",
+    "url": "https://plantix.net/en/library/plant-diseases/100075/black-sigatoka/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Karnal Bunt of Wheat",
+    "scientific_name": "Tilletia indica",
+    "url": "https://plantix.net/en/library/plant-diseases/100066/karnal-bunt-of-wheat/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Northern Leaf Blight",
+    "scientific_name": "Setosphaeria turcica",
+    "url": "https://plantix.net/en/library/plant-diseases/100065/northern-leaf-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Hoppers",
+    "scientific_name": "Idioscopus spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/800016/mango-hoppers/",
+    "type": "Insect"
+  },
+  {
+    "name": "Anthracnose of Citrus",
+    "scientific_name": "Colletotrichum gloeosporioides",
+    "url": "https://plantix.net/en/library/plant-diseases/100122/anthracnose-of-citrus/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Ear Cockle Eelworm",
+    "scientific_name": "Anguina tritici",
+    "url": "https://plantix.net/en/library/plant-diseases/800025/ear-cockle-eelworm/",
+    "type": "Other"
+  },
+  {
+    "name": "Asian Rice Gall Midge",
+    "scientific_name": "Orseolia oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/600107/asian-rice-gall-midge/",
+    "type": "Insect"
+  },
+  {
+    "name": "Brown Spot of Rice",
+    "scientific_name": "Cochliobolus miyabeanus",
+    "url": "https://plantix.net/en/library/plant-diseases/100064/brown-spot-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Scab",
+    "scientific_name": "Elsinoe fawcettii",
+    "url": "https://plantix.net/en/library/plant-diseases/100124/citrus-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cabbage White Butterfly",
+    "scientific_name": "Pieris brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/600028/cabbage-white-butterfly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Leaf Reddening of Cotton",
+    "scientific_name": "Leaf Reddening",
+    "url": "https://plantix.net/en/library/plant-diseases/900018/leaf-reddening-of-cotton/",
+    "type": "Other"
+  },
+  {
+    "name": "Peanut Rust",
+    "scientific_name": "Puccinia arachidis",
+    "url": "https://plantix.net/en/library/plant-diseases/100057/peanut-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spider Mites",
+    "scientific_name": "Tetranychidae",
+    "url": "https://plantix.net/en/library/plant-diseases/500004/spider-mites/",
+    "type": "Mite"
+  },
+  {
+    "name": "Potato X Virus",
+    "scientific_name": "PVX",
+    "url": "https://plantix.net/en/library/plant-diseases/200010/potato-x-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Blue Butterfly",
+    "scientific_name": "Lampides boeticus",
+    "url": "https://plantix.net/en/library/plant-diseases/600103/blue-butterfly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Greening Disease",
+    "scientific_name": "Liberibacter asiaticus",
+    "url": "https://plantix.net/en/library/plant-diseases/300021/citrus-greening-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Downy Mildew of Millet",
+    "scientific_name": "Sclerospora graminicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100004/downy-mildew-of-millet/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Diamondback Moth",
+    "scientific_name": "Plutella xylostella",
+    "url": "https://plantix.net/en/library/plant-diseases/600189/diamondback-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bean Common Mosaic Virus",
+    "scientific_name": "BCMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200004/bean-common-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Flea Beetles",
+    "scientific_name": "Chrysomelidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600020/flea-beetles/",
+    "type": "Insect"
+  },
+  {
+    "name": "Ashy Stem Blight of Bean",
+    "scientific_name": "Macrophomina phaseolina",
+    "url": "https://plantix.net/en/library/plant-diseases/100131/ashy-stem-blight-of-bean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Downy Mildew of Grape",
+    "scientific_name": "Plasmopara viticola",
+    "url": "https://plantix.net/en/library/plant-diseases/800033/downy-mildew-of-grape/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Red Rot",
+    "scientific_name": "Glomerella tucumanensis",
+    "url": "https://plantix.net/en/library/plant-diseases/100052/red-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tan Spot",
+    "scientific_name": "Pyrenophora tritici-repentis",
+    "url": "https://plantix.net/en/library/plant-diseases/100097/tan-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Rust of Rye",
+    "scientific_name": "Puccinia recondita",
+    "url": "https://plantix.net/en/library/plant-diseases/100226/brown-rust-of-rye/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bacterial Blight of Rice",
+    "scientific_name": "Xanthomonas oryzae pv. oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/300014/bacterial-blight-of-rice/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Septoria Leaf Spot",
+    "scientific_name": "Septoria lycopersici",
+    "url": "https://plantix.net/en/library/plant-diseases/100152/septoria-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Blast of Rice",
+    "scientific_name": "Magnaporthe oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/100058/blast-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wheat Leaf Rust",
+    "scientific_name": "Puccinia triticina",
+    "url": "https://plantix.net/en/library/plant-diseases/100059/wheat-leaf-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Rot",
+    "scientific_name": "Xanthomonas campestris pv. campestris",
+    "url": "https://plantix.net/en/library/plant-diseases/300006/black-rot/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bean Rust",
+    "scientific_name": "Uromyces appendiculatus",
+    "url": "https://plantix.net/en/library/plant-diseases/100032/bean-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Pea Rust",
+    "scientific_name": "Uromyces pisi",
+    "url": "https://plantix.net/en/library/plant-diseases/100033/pea-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tobacco Streak Virus",
+    "scientific_name": "TSV",
+    "url": "https://plantix.net/en/library/plant-diseases/200047/tobacco-streak-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Broad Mite",
+    "scientific_name": "Polyphagotarsonemus latus",
+    "url": "https://plantix.net/en/library/plant-diseases/500011/broad-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Bacterial Pustule",
+    "scientific_name": "Xanthomonas axonopodis pv. glycines",
+    "url": "https://plantix.net/en/library/plant-diseases/300012/bacterial-pustule/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Onion Maggots",
+    "scientific_name": "Delia platura",
+    "url": "https://plantix.net/en/library/plant-diseases/600024/onion-maggots/",
+    "type": "Insect"
+  },
+  {
+    "name": "Powdery Mildew of Mango",
+    "scientific_name": "Oidium mangiferae",
+    "url": "https://plantix.net/en/library/plant-diseases/100069/powdery-mildew-of-mango/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Scurf",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100043/black-scurf/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Stem Rot of Pigeonpea",
+    "scientific_name": "Phytophthora drechsleri f. sp. cajani",
+    "url": "https://plantix.net/en/library/plant-diseases/100115/stem-rot-of-pigeonpea/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Common Bunt of Wheat",
+    "scientific_name": "Tilletia tritici",
+    "url": "https://plantix.net/en/library/plant-diseases/100188/common-bunt-of-wheat/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Powdery Mildew of Papaya",
+    "scientific_name": "Oidium caricae-papayae",
+    "url": "https://plantix.net/en/library/plant-diseases/100070/powdery-mildew-of-papaya/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Parawilt",
+    "scientific_name": "Parawilt",
+    "url": "https://plantix.net/en/library/plant-diseases/900019/parawilt/",
+    "type": "Other"
+  },
+  {
+    "name": "Rice Sheath Blight",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100080/rice-sheath-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spotted Stemborer",
+    "scientific_name": "Chilo partellus",
+    "url": "https://plantix.net/en/library/plant-diseases/600030/spotted-stemborer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Late and Early Leaf Spot",
+    "scientific_name": "Mycosphaerella spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100056/late-and-early-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wheat Stem Rust",
+    "scientific_name": "Puccinia graminis",
+    "url": "https://plantix.net/en/library/plant-diseases/100060/wheat-stem-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Loose Smut of Wheat",
+    "scientific_name": "Ustilago segetum var. tritici",
+    "url": "https://plantix.net/en/library/plant-diseases/100061/loose-smut-of-wheat/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Grape",
+    "scientific_name": "Elsinoe ampelina",
+    "url": "https://plantix.net/en/library/plant-diseases/100134/anthracnose-of-grape/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Smut of Sugarcane",
+    "scientific_name": "Sporisorium scitamineum",
+    "url": "https://plantix.net/en/library/plant-diseases/100063/smut-of-sugarcane/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Dieback Disease",
+    "scientific_name": "Botryosphaeria rhodina",
+    "url": "https://plantix.net/en/library/plant-diseases/100071/mango-dieback-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Planthopper",
+    "scientific_name": "Nilaparvata lugens",
+    "url": "https://plantix.net/en/library/plant-diseases/600104/brown-planthopper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Alternaria Leaf Spot of Cotton",
+    "scientific_name": "Alternaria macrospora",
+    "url": "https://plantix.net/en/library/plant-diseases/100104/alternaria-leaf-spot-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Panama Disease",
+    "scientific_name": "Fusarium oxysporum",
+    "url": "https://plantix.net/en/library/plant-diseases/100079/panama-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Papaya Brown Spot",
+    "scientific_name": "Corynespora cassiicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100073/papaya-brown-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Yellow Sigatoka",
+    "scientific_name": "Mycosphaerella musicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100076/yellow-sigatoka/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Banana",
+    "scientific_name": "Colletotrichum musae",
+    "url": "https://plantix.net/en/library/plant-diseases/100078/anthracnose-of-banana/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Groundnut Bud Necrosis Virus",
+    "scientific_name": "GBNV",
+    "url": "https://plantix.net/en/library/plant-diseases/200012/groundnut-bud-necrosis-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Potato Leafroll Virus",
+    "scientific_name": "PLRV",
+    "url": "https://plantix.net/en/library/plant-diseases/200008/potato-leafroll-virus/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mungbean Yellow Mosaic Virus",
+    "scientific_name": "MYMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200014/mungbean-yellow-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Pseudostem Weevil",
+    "scientific_name": "Odoiporus longicollis",
+    "url": "https://plantix.net/en/library/plant-diseases/600032/pseudostem-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Common Rust of Maize",
+    "scientific_name": "Puccinia sorghi",
+    "url": "https://plantix.net/en/library/plant-diseases/100082/common-rust-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Algal Leaf Spot",
+    "scientific_name": "Cephaleuros virescens",
+    "url": "https://plantix.net/en/library/plant-diseases/800004/algal-leaf-spot/",
+    "type": "Other"
+  },
+  {
+    "name": "Chilli Cercospora Leaf Spot",
+    "scientific_name": "Cercospora capsici",
+    "url": "https://plantix.net/en/library/plant-diseases/100085/chilli-cercospora-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Charcoal Stalk Rot",
+    "scientific_name": "Macrophomina phaseolina",
+    "url": "https://plantix.net/en/library/plant-diseases/100087/charcoal-stalk-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Sorghum Midge",
+    "scientific_name": "Stenodiplosis sorghicola",
+    "url": "https://plantix.net/en/library/plant-diseases/600031/sorghum-midge/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Speck of Tomato",
+    "scientific_name": "Pseudomonas syringae pv. tomato",
+    "url": "https://plantix.net/en/library/plant-diseases/800048/bacterial-speck-of-tomato/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Fusarium Head Blight",
+    "scientific_name": "Fusarium graminearum",
+    "url": "https://plantix.net/en/library/plant-diseases/100093/fusarium-head-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cucumber Mosaic Virus",
+    "scientific_name": "CMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200006/cucumber-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Pomegranate Wilt",
+    "scientific_name": "Ceratocystis fimbriata",
+    "url": "https://plantix.net/en/library/plant-diseases/800031/pomegranate-wilt/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Nut Weevil",
+    "scientific_name": "Sternochetus mangiferae",
+    "url": "https://plantix.net/en/library/plant-diseases/800013/mango-nut-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Banana Lace Wing Bug",
+    "scientific_name": "Stephanitis typica",
+    "url": "https://plantix.net/en/library/plant-diseases/600126/banana-lace-wing-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Soft Rot of Banana",
+    "scientific_name": "Pectobacterium carotovorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100195/bacterial-soft-rot-of-banana/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bean Yellow Mosaic Virus",
+    "scientific_name": "BYMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200041/bean-yellow-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Melon Fruit Fly",
+    "scientific_name": "Zeugodacus cucurbitae",
+    "url": "https://plantix.net/en/library/plant-diseases/600135/melon-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cercospora Fruit and Leaf Spot",
+    "scientific_name": "Pseudocercospora punicae",
+    "url": "https://plantix.net/en/library/plant-diseases/100202/cercospora-fruit-and-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Alternaria Black Spot and Fruit Rot",
+    "scientific_name": "Alternaria alternata",
+    "url": "https://plantix.net/en/library/plant-diseases/100203/alternaria-black-spot-and-fruit-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Pomegranate",
+    "scientific_name": "Glomerella cingulata",
+    "url": "https://plantix.net/en/library/plant-diseases/100204/anthracnose-of-pomegranate/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Chilli Thrips",
+    "scientific_name": "Scirtothrips dorsalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600136/chilli-thrips/",
+    "type": "Insect"
+  },
+  {
+    "name": "Rice Ear-Cutting Caterpillar",
+    "scientific_name": "Mythimna separata",
+    "url": "https://plantix.net/en/library/plant-diseases/600137/rice-ear-cutting-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Powdery Mildew of Grape",
+    "scientific_name": "Erysiphe necator",
+    "url": "https://plantix.net/en/library/plant-diseases/100208/powdery-mildew-of-grape/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Chilli Leaf Curl Virus",
+    "scientific_name": "CLCV",
+    "url": "https://plantix.net/en/library/plant-diseases/200052/chilli-leaf-curl-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Leaf Blight of Cucurbits",
+    "scientific_name": "Alternaria cucumerina",
+    "url": "https://plantix.net/en/library/plant-diseases/100232/leaf-blight-of-cucurbits/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Purple Blotch of Onion",
+    "scientific_name": "Alternaria porri",
+    "url": "https://plantix.net/en/library/plant-diseases/100278/purple-blotch-of-onion/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Botrytis Leaf Blight",
+    "scientific_name": "Botryotinia squamosa",
+    "url": "https://plantix.net/en/library/plant-diseases/100212/botrytis-leaf-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Pea Pod Borer",
+    "scientific_name": "Etiella zinckenella",
+    "url": "https://plantix.net/en/library/plant-diseases/600151/pea-pod-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Brown Rust of Barley",
+    "scientific_name": "Puccinia hordei",
+    "url": "https://plantix.net/en/library/plant-diseases/100214/brown-rust-of-barley/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Oriental Fruit Fly",
+    "scientific_name": "Bactrocera dorsalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600170/oriental-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Shoot Flies",
+    "scientific_name": "Atherigona sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600194/shoot-flies/",
+    "type": "Insect"
+  },
+  {
+    "name": "Sharka",
+    "scientific_name": "Plum pox virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200003/sharka/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bean Golden Mosaic Virus",
+    "scientific_name": "BGMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200005/bean-golden-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Cotton Leaf Roller",
+    "scientific_name": "Syllepte derogata",
+    "url": "https://plantix.net/en/library/plant-diseases/600226/cotton-leaf-roller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Psyllid",
+    "scientific_name": "Diaphorina citri",
+    "url": "https://plantix.net/en/library/plant-diseases/600234/citrus-psyllid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pink Bollworm",
+    "scientific_name": "Pectinophora gossypiella",
+    "url": "https://plantix.net/en/library/plant-diseases/600161/pink-bollworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Blight of Cotton",
+    "scientific_name": "Xanthomonas citri subsp. malvacearum",
+    "url": "https://plantix.net/en/library/plant-diseases/300044/bacterial-blight-of-cotton/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Potato Y Virus",
+    "scientific_name": "PVY",
+    "url": "https://plantix.net/en/library/plant-diseases/200009/potato-y-virus/",
+    "type": "Insect"
+  },
+  {
+    "name": "Onion Yellow Dwarf",
+    "scientific_name": "OYDV",
+    "url": "https://plantix.net/en/library/plant-diseases/200011/onion-yellow-dwarf/",
+    "type": "Virus"
+  },
+  {
+    "name": "Soybean Mosaic Virus",
+    "scientific_name": "SMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200013/soybean-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Papaya Mosaic Virus",
+    "scientific_name": "PapMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200017/papaya-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Root Rot of Cotton",
+    "scientific_name": "Macrophomina phaseolina",
+    "url": "https://plantix.net/en/library/plant-diseases/100256/root-rot-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Banana Bract Mosaic Virus",
+    "scientific_name": "BBrMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200019/banana-bract-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Potato S Virus",
+    "scientific_name": "PVS",
+    "url": "https://plantix.net/en/library/plant-diseases/200060/potato-s-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Brinjal Shoot and Fruit Borer",
+    "scientific_name": "Leucinodes orbonalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600179/brinjal-shoot-and-fruit-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Downy Mildew of Cucurbits",
+    "scientific_name": "Pseudoperonospora cubensis",
+    "url": "https://plantix.net/en/library/plant-diseases/100264/downy-mildew-of-cucurbits/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Sunburn",
+    "scientific_name": "Abiotic Sunburn",
+    "url": "https://plantix.net/en/library/plant-diseases/900006/sunburn/",
+    "type": "Other"
+  },
+  {
+    "name": "Cucumber Mosaic Virus on Banana",
+    "scientific_name": "CMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200039/cucumber-mosaic-virus-on-banana/",
+    "type": "Virus"
+  },
+  {
+    "name": "Root and Foot Rot",
+    "scientific_name": "Cochliobolus sativus",
+    "url": "https://plantix.net/en/library/plant-diseases/100275/root-and-foot-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phomopsis Blight",
+    "scientific_name": "Phomopsis vexans",
+    "url": "https://plantix.net/en/library/plant-diseases/100276/phomopsis-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bhendi Yellow Vein Mosaic Virus",
+    "scientific_name": "BYVMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200065/bhendi-yellow-vein-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Stemphylium Leaf Blight of Onion",
+    "scientific_name": "Pleospora allii",
+    "url": "https://plantix.net/en/library/plant-diseases/100280/stemphylium-leaf-blight-of-onion/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cucumber Mosaic Virus of Pepper",
+    "scientific_name": "CMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200055/cucumber-mosaic-virus-of-pepper/",
+    "type": "Virus"
+  },
+  {
+    "name": "Banded Leaf and Sheath Blight",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100283/banded-leaf-and-sheath-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "May Beetles",
+    "scientific_name": "Phyllophaga  spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600195/may-beetles/",
+    "type": "Insect"
+  },
+  {
+    "name": "Red Cotton Bug",
+    "scientific_name": "Dysdercus cingulatus",
+    "url": "https://plantix.net/en/library/plant-diseases/600199/red-cotton-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Gray Leaf Spot",
+    "scientific_name": "Stemphylium solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100291/gray-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Powdery Mildew of Pepper",
+    "scientific_name": "Leveillula taurica",
+    "url": "https://plantix.net/en/library/plant-diseases/100293/powdery-mildew-of-pepper/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wet Rot",
+    "scientific_name": "Choanephora cucurbitarum",
+    "url": "https://plantix.net/en/library/plant-diseases/100296/wet-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spotted Bollworm",
+    "scientific_name": "Earias vittella",
+    "url": "https://plantix.net/en/library/plant-diseases/600222/spotted-bollworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Myrothecium Leaf Spot",
+    "scientific_name": "Myrothecium roridum",
+    "url": "https://plantix.net/en/library/plant-diseases/100298/myrothecium-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Soybean Stem Miner",
+    "scientific_name": "Melanagromyza sojae",
+    "url": "https://plantix.net/en/library/plant-diseases/600223/soybean-stem-miner/",
+    "type": "Insect"
+  },
+  {
+    "name": "Soybean Girdle Beetle",
+    "scientific_name": "Obereopsis brevis",
+    "url": "https://plantix.net/en/library/plant-diseases/600224/soybean-girdle-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Fruit Molds",
+    "scientific_name": "Aspergillus spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100302/fruit-molds/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Dusty Cotton Stainer",
+    "scientific_name": "Oxycarenus hyalinipennis",
+    "url": "https://plantix.net/en/library/plant-diseases/600227/dusty-cotton-stainer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Sugarcane Pyrilla",
+    "scientific_name": "Pyrilla perpusilla",
+    "url": "https://plantix.net/en/library/plant-diseases/600231/sugarcane-pyrilla/",
+    "type": "Insect"
+  },
+  {
+    "name": "Termites",
+    "scientific_name": "Termitidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600232/termites/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Butterfly",
+    "scientific_name": "Papilio demoleus",
+    "url": "https://plantix.net/en/library/plant-diseases/600235/citrus-butterfly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Potato Scab",
+    "scientific_name": "Streptomyces scabies",
+    "url": "https://plantix.net/en/library/plant-diseases/300009/potato-scab/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bean Fly",
+    "scientific_name": "Ophiomyia phaseoli",
+    "url": "https://plantix.net/en/library/plant-diseases/600264/bean-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Nematodes",
+    "scientific_name": "Nematoda",
+    "url": "https://plantix.net/en/library/plant-diseases/800003/nematodes/",
+    "type": "Other"
+  },
+  {
+    "name": "Apple Root and Collar Rot",
+    "scientific_name": "Phytophthora cactorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100001/apple-root-and-collar-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Rot",
+    "scientific_name": "Monilinia laxa",
+    "url": "https://plantix.net/en/library/plant-diseases/100010/brown-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Fruit Rot",
+    "scientific_name": "Monilinia fructigena",
+    "url": "https://plantix.net/en/library/plant-diseases/100011/fruit-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bitter Rot",
+    "scientific_name": "Glomerella cingulata",
+    "url": "https://plantix.net/en/library/plant-diseases/100209/bitter-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Potassium Deficiency",
+    "scientific_name": "Potassium Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700002/potassium-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Iron Deficiency",
+    "scientific_name": "Iron Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700007/iron-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Botryosphaeria Dieback",
+    "scientific_name": "Botryosphaeriaceae",
+    "url": "https://plantix.net/en/library/plant-diseases/100137/botryosphaeria-dieback/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Green Citrus Aphid",
+    "scientific_name": "Aphis spiraecola",
+    "url": "https://plantix.net/en/library/plant-diseases/600156/green-citrus-aphid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Leafcutter Bees",
+    "scientific_name": "Megachile sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600311/leafcutter-bees/",
+    "type": "Insect"
+  },
+  {
+    "name": "Alternaria Leaf Spot of Soybean",
+    "scientific_name": "Alternaria spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100324/alternaria-leaf-spot-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Budworm",
+    "scientific_name": "Scrobipalpa sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600291/budworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Rust of Sorghum",
+    "scientific_name": "Puccinia purpurea",
+    "url": "https://plantix.net/en/library/plant-diseases/100320/rust-of-sorghum/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Herbicide Growth Damage",
+    "scientific_name": "Herbicides Growth Regulators",
+    "url": "https://plantix.net/en/library/plant-diseases/900027/herbicide-growth-damage/",
+    "type": "Other"
+  },
+  {
+    "name": "Leaf Variegation",
+    "scientific_name": "Chimera",
+    "url": "https://plantix.net/en/library/plant-diseases/800107/leaf-variegation/",
+    "type": "Other"
+  },
+  {
+    "name": "Wind Damage on Citrus",
+    "scientific_name": "Wind Damage on Citrus",
+    "url": "https://plantix.net/en/library/plant-diseases/900026/wind-damage-on-citrus/",
+    "type": "Other"
+  },
+  {
+    "name": "Beet Armyworm",
+    "scientific_name": "Spodoptera exigua",
+    "url": "https://plantix.net/en/library/plant-diseases/600275/beet-armyworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Broad nosed Weevils",
+    "scientific_name": "Myllocerus sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600273/broad-nosed-weevils/",
+    "type": "Insect"
+  },
+  {
+    "name": "Wheat Blast",
+    "scientific_name": "Magnaporthe oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/100187/wheat-blast/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tobacco Mosaic Virus",
+    "scientific_name": "Tobacco mosaic virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200037/tobacco-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Rust on Blackgram",
+    "scientific_name": "Uromyces phaseoli",
+    "url": "https://plantix.net/en/library/plant-diseases/100178/rust-on-blackgram/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rice Case Worm",
+    "scientific_name": "Parapoynx stagnalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600109/rice-case-worm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Narrow Brown Leaf Spot of Rice",
+    "scientific_name": "Sphaerulina oryzina",
+    "url": "https://plantix.net/en/library/plant-diseases/100183/narrow-brown-leaf-spot-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Leaf Scald of Rice",
+    "scientific_name": "Monographella albescens",
+    "url": "https://plantix.net/en/library/plant-diseases/100182/leaf-scald-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bakanae and Foot Rot",
+    "scientific_name": "Gibberella fujikuroi",
+    "url": "https://plantix.net/en/library/plant-diseases/100180/bakanae-and-foot-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rice Panicle Mite",
+    "scientific_name": "Steneotarsonemus spinki",
+    "url": "https://plantix.net/en/library/plant-diseases/800062/rice-panicle-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Sheath Rot of Rice",
+    "scientific_name": "Sarocladium oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/100163/sheath-rot-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Eyespot of Sugarcane",
+    "scientific_name": "Bipolaris sacchari",
+    "url": "https://plantix.net/en/library/plant-diseases/100159/eyespot-of-sugarcane/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Zippering",
+    "scientific_name": "Physiological Disorder",
+    "url": "https://plantix.net/en/library/plant-diseases/800102/tomato-zippering/",
+    "type": "Other"
+  },
+  {
+    "name": "Early Shoot Borer",
+    "scientific_name": "Chilo infuscatellus",
+    "url": "https://plantix.net/en/library/plant-diseases/600091/early-shoot-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Panicle Blight",
+    "scientific_name": "Burkholderia spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/300032/bacterial-panicle-blight/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Sugarcane Common Rust",
+    "scientific_name": "Puccinia melanocephala",
+    "url": "https://plantix.net/en/library/plant-diseases/100153/sugarcane-common-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Sudden Death Syndrome",
+    "scientific_name": "Fusarium virguliforme",
+    "url": "https://plantix.net/en/library/plant-diseases/100171/sudden-death-syndrome/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Purple Seed Stain of Soybean",
+    "scientific_name": "Cercospora kikuchii",
+    "url": "https://plantix.net/en/library/plant-diseases/100170/purple-seed-stain-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Frogeye Leaf Spot",
+    "scientific_name": "Cercospora sojina",
+    "url": "https://plantix.net/en/library/plant-diseases/100168/frogeye-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Fusarium Ear Rot",
+    "scientific_name": "Fusarium verticillioides",
+    "url": "https://plantix.net/en/library/plant-diseases/100167/fusarium-ear-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Snow Mold of Cereals",
+    "scientific_name": "Monographella nivalis",
+    "url": "https://plantix.net/en/library/plant-diseases/100164/snow-mold-of-cereals/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Velvetbean Caterpillar",
+    "scientific_name": "Anticarsia gemmatalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600094/velvetbean-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Blackfly",
+    "scientific_name": "Aleurocanthus woglumi",
+    "url": "https://plantix.net/en/library/plant-diseases/600237/citrus-blackfly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Anthracnose of Cucurbits",
+    "scientific_name": "Glomerella lagenarium",
+    "url": "https://plantix.net/en/library/plant-diseases/100231/anthracnose-of-cucurbits/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Red Hairy Caterpillar",
+    "scientific_name": "Amsacta albistriga",
+    "url": "https://plantix.net/en/library/plant-diseases/600112/red-hairy-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cereal Leaf Beetle",
+    "scientific_name": "Oulema melanopus",
+    "url": "https://plantix.net/en/library/plant-diseases/600037/cereal-leaf-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Stalk Rot of Maize",
+    "scientific_name": "Dickeya zeae",
+    "url": "https://plantix.net/en/library/plant-diseases/300035/bacterial-stalk-rot-of-maize/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Ascochyta Blight",
+    "scientific_name": "Didymella rabiei",
+    "url": "https://plantix.net/en/library/plant-diseases/100119/ascochyta-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Chickpea Rust",
+    "scientific_name": "Uromyces ciceris-arietini",
+    "url": "https://plantix.net/en/library/plant-diseases/100118/chickpea-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Shoot Borer",
+    "scientific_name": "Chlumetia transversa",
+    "url": "https://plantix.net/en/library/plant-diseases/800014/mango-shoot-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cercospora Leaf Spot of Eggplant",
+    "scientific_name": "Cercospora melongenae",
+    "url": "https://plantix.net/en/library/plant-diseases/100108/cercospora-leaf-spot-of-eggplant/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Spot of Soybean",
+    "scientific_name": "Septoria glycines",
+    "url": "https://plantix.net/en/library/plant-diseases/100112/brown-spot-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cucumber Green Mottle Virus",
+    "scientific_name": "CGMMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200007/cucumber-green-mottle-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Stem Rot",
+    "scientific_name": "Sclerotinia sclerotiorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100110/stem-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Target Spot of Soybean",
+    "scientific_name": "Corynespora cassiicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100109/target-spot-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Cutworm",
+    "scientific_name": "Agrotis ipsilon",
+    "url": "https://plantix.net/en/library/plant-diseases/600048/black-cutworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Grey Leaf Spot of Maize",
+    "scientific_name": "Cercospora zeae-maydis",
+    "url": "https://plantix.net/en/library/plant-diseases/100107/grey-leaf-spot-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Codling Moth",
+    "scientific_name": "Cydia pomonella",
+    "url": "https://plantix.net/en/library/plant-diseases/600006/codling-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "White Rot",
+    "scientific_name": "Stromatinia cepivora",
+    "url": "https://plantix.net/en/library/plant-diseases/100049/white-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Goss Wilt",
+    "scientific_name": "Clavibacter michiganensis",
+    "url": "https://plantix.net/en/library/plant-diseases/300034/goss-wilt/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Silver Scurf",
+    "scientific_name": "Helminthosporium solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100044/silver-scurf/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Soft Scale",
+    "scientific_name": "Coccus hesperidum",
+    "url": "https://plantix.net/en/library/plant-diseases/600236/brown-soft-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Maize Smut",
+    "scientific_name": "Ustilago maydis",
+    "url": "https://plantix.net/en/library/plant-diseases/100038/maize-smut/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cherry Leaf Spot",
+    "scientific_name": "Blumeriella jaapii",
+    "url": "https://plantix.net/en/library/plant-diseases/100016/cherry-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Eggplant Leaf Roller",
+    "scientific_name": "Eublemma olivacea",
+    "url": "https://plantix.net/en/library/plant-diseases/600036/eggplant-leaf-roller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Growth Cracks in Tomato",
+    "scientific_name": "Fruit Deformation",
+    "url": "https://plantix.net/en/library/plant-diseases/900016/growth-cracks-in-tomato/",
+    "type": "Other"
+  },
+  {
+    "name": "Hairy Caterpillars",
+    "scientific_name": "Euproctis fraterna",
+    "url": "https://plantix.net/en/library/plant-diseases/800017/hairy-caterpillars/",
+    "type": "Insect"
+  },
+  {
+    "name": "Eggplant Lace Bug",
+    "scientific_name": "Gargaphia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/600111/eggplant-lace-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Black Spot",
+    "scientific_name": "Phyllosticta citricarpa",
+    "url": "https://plantix.net/en/library/plant-diseases/100123/citrus-black-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Jewel Beetle",
+    "scientific_name": "Sphenoptera indica",
+    "url": "https://plantix.net/en/library/plant-diseases/600115/jewel-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Canker of Tomato",
+    "scientific_name": "Clavibacter michiganensis subs. michiganensis",
+    "url": "https://plantix.net/en/library/plant-diseases/300010/bacterial-canker-of-tomato/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Oriental Armyworm",
+    "scientific_name": "Mythimna separata",
+    "url": "https://plantix.net/en/library/plant-diseases/600034/oriental-armyworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mango Shoot Psyllid",
+    "scientific_name": "Apsylla cistellata",
+    "url": "https://plantix.net/en/library/plant-diseases/800012/mango-shoot-psyllid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Oriental Spider Mite",
+    "scientific_name": "Eutetranychus orientalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600252/oriental-spider-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Phomopsis Cane and Leaf Spot",
+    "scientific_name": "Phomopsis viticola",
+    "url": "https://plantix.net/en/library/plant-diseases/100138/phomopsis-cane-and-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Fusarium Wilt",
+    "scientific_name": "Fusarium oxysporum",
+    "url": "https://plantix.net/en/library/plant-diseases/100034/fusarium-wilt/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Papaya Fruit Fly",
+    "scientific_name": "Toxotrypana curvicauda",
+    "url": "https://plantix.net/en/library/plant-diseases/600124/papaya-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Alternaria Spot",
+    "scientific_name": "Alternaria brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/100037/alternaria-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Sugarcane White Grub",
+    "scientific_name": "Lepidiota stigma",
+    "url": "https://plantix.net/en/library/plant-diseases/600092/sugarcane-white-grub/",
+    "type": "Insect"
+  },
+  {
+    "name": "Foot and Collar Rot",
+    "scientific_name": "Athelia rolfsii",
+    "url": "https://plantix.net/en/library/plant-diseases/100132/foot-and-collar-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Leaf Miner",
+    "scientific_name": "Tuta Absoluta",
+    "url": "https://plantix.net/en/library/plant-diseases/600038/tomato-leaf-miner/",
+    "type": "Insect"
+  },
+  {
+    "name": "Septoria Tritici Blotch",
+    "scientific_name": "Mycosphaerella graminicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100092/septoria-tritici-blotch/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Pearl Millet Ergot",
+    "scientific_name": "Claviceps fusiformis",
+    "url": "https://plantix.net/en/library/plant-diseases/100054/pearl-millet-ergot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Catface",
+    "scientific_name": "Physiological Disorder",
+    "url": "https://plantix.net/en/library/plant-diseases/900015/tomato-catface/",
+    "type": "Other"
+  },
+  {
+    "name": "Rice Grassy Stunt Virus",
+    "scientific_name": "RGSV",
+    "url": "https://plantix.net/en/library/plant-diseases/200053/rice-grassy-stunt-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Green and Blue Molds",
+    "scientific_name": "Penicillium spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100274/green-and-blue-molds/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Blackleg of Potato",
+    "scientific_name": "Pectobacterium atrosepticum",
+    "url": "https://plantix.net/en/library/plant-diseases/300008/blackleg-of-potato/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Cercospora Leaf Spot of Legumes",
+    "scientific_name": "Cercospora canescens",
+    "url": "https://plantix.net/en/library/plant-diseases/100067/cercospora-leaf-spot-of-legumes/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phoma Blight",
+    "scientific_name": "Peyronellaea glomerata",
+    "url": "https://plantix.net/en/library/plant-diseases/100072/phoma-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Grey Mildew of Cotton",
+    "scientific_name": "Mycosphaerella areola",
+    "url": "https://plantix.net/en/library/plant-diseases/100106/grey-mildew-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cigar End Rot",
+    "scientific_name": "Trachysphaera fructigena",
+    "url": "https://plantix.net/en/library/plant-diseases/100077/cigar-end-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phyllosticta Leaf Spot",
+    "scientific_name": "Nothophoma arachidis-hypogaeae",
+    "url": "https://plantix.net/en/library/plant-diseases/100083/phyllosticta-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose Leaf Blight and Stalk Rot",
+    "scientific_name": "Colletotrichum graminicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100084/anthracnose-leaf-blight-and-stalk-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Semilooper",
+    "scientific_name": "Autographa nigrisigna",
+    "url": "https://plantix.net/en/library/plant-diseases/600055/semilooper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Sugar Spot",
+    "scientific_name": "Sugar Spot",
+    "url": "https://plantix.net/en/library/plant-diseases/800080/sugar-spot/",
+    "type": "Other"
+  },
+  {
+    "name": "Eyespot of Cereals",
+    "scientific_name": "Oculimacula yallundae",
+    "url": "https://plantix.net/en/library/plant-diseases/100099/eyespot-of-cereals/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Southern Rust of Maize",
+    "scientific_name": "Puccinia polysora",
+    "url": "https://plantix.net/en/library/plant-diseases/100100/southern-rust-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Soybean Rust",
+    "scientific_name": "Phakopsora pachyrhizi",
+    "url": "https://plantix.net/en/library/plant-diseases/100102/soybean-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Soybean",
+    "scientific_name": "Colletotrichum truncatum",
+    "url": "https://plantix.net/en/library/plant-diseases/100103/anthracnose-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rice Hispa",
+    "scientific_name": "Dicladispa armigera",
+    "url": "https://plantix.net/en/library/plant-diseases/600098/rice-hispa/",
+    "type": "Insect"
+  },
+  {
+    "name": "Ergot of Sorghum",
+    "scientific_name": "Claviceps africana",
+    "url": "https://plantix.net/en/library/plant-diseases/100200/ergot-of-sorghum/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Covered Kernel Smut of Sorghum",
+    "scientific_name": "Sporisorium sorghi",
+    "url": "https://plantix.net/en/library/plant-diseases/100201/covered-kernel-smut-of-sorghum/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Leg",
+    "scientific_name": "Plenodomus lingam",
+    "url": "https://plantix.net/en/library/plant-diseases/100207/black-leg/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Thrips",
+    "scientific_name": "Scirtothrips citri",
+    "url": "https://plantix.net/en/library/plant-diseases/600152/citrus-thrips/",
+    "type": "Insect"
+  },
+  {
+    "name": "Banana Scab Moth",
+    "scientific_name": "Nacoleia octasema",
+    "url": "https://plantix.net/en/library/plant-diseases/600154/banana-scab-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Powdery Mildew of Soybean",
+    "scientific_name": "Erysiphe diffusa",
+    "url": "https://plantix.net/en/library/plant-diseases/100221/powdery-mildew-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Damping-Off of Seedlings",
+    "scientific_name": "Pythium spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100322/damping-off-of-seedlings/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wireworms",
+    "scientific_name": "Elateridae",
+    "url": "https://plantix.net/en/library/plant-diseases/600186/wireworms/",
+    "type": "Insect"
+  },
+  {
+    "name": "Transparent Scale",
+    "scientific_name": "Aspidiotus destructor",
+    "url": "https://plantix.net/en/library/plant-diseases/600171/transparent-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cotton Stem Weevil",
+    "scientific_name": "Pempherulus affinis",
+    "url": "https://plantix.net/en/library/plant-diseases/600258/cotton-stem-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Tungro",
+    "scientific_name": "RTBV",
+    "url": "https://plantix.net/en/library/plant-diseases/200033/tungro/",
+    "type": "Virus"
+  },
+  {
+    "name": "Sugarcane Mosaic Virus",
+    "scientific_name": "SCMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200031/sugarcane-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Cotton Leaf Curl Virus",
+    "scientific_name": "CLCuV",
+    "url": "https://plantix.net/en/library/plant-diseases/200057/cotton-leaf-curl-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Herbicide Bleach",
+    "scientific_name": "Herbicides Photosynthesis Inhibitors",
+    "url": "https://plantix.net/en/library/plant-diseases/900013/herbicide-bleach/",
+    "type": "Other"
+  },
+  {
+    "name": "Late Wilt of Maize",
+    "scientific_name": "Magnaporthiopsis maydis",
+    "url": "https://plantix.net/en/library/plant-diseases/100295/late-wilt-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rust of Cotton",
+    "scientific_name": "Phakopsora gossypii",
+    "url": "https://plantix.net/en/library/plant-diseases/100299/rust-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bihar Hairy Caterpillar",
+    "scientific_name": "Spilarctia obliqua",
+    "url": "https://plantix.net/en/library/plant-diseases/600247/bihar-hairy-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Stem Blight of Soybean",
+    "scientific_name": "Diaporthe phaseolorum var. sojae",
+    "url": "https://plantix.net/en/library/plant-diseases/100312/stem-blight-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Red Scale",
+    "scientific_name": "Aonidiella aurantii",
+    "url": "https://plantix.net/en/library/plant-diseases/600251/red-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mirid Bugs",
+    "scientific_name": "Miridae",
+    "url": "https://plantix.net/en/library/plant-diseases/600262/mirid-bugs/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Black Spot of Mango",
+    "scientific_name": "Xanthomonas citri pv. mangiferaeindicae",
+    "url": "https://plantix.net/en/library/plant-diseases/300013/bacterial-black-spot-of-mango/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Cottony Cushion Scale",
+    "scientific_name": "Icerya purchasi",
+    "url": "https://plantix.net/en/library/plant-diseases/600061/cottony-cushion-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Fire Blight",
+    "scientific_name": "Erwinia amylovora",
+    "url": "https://plantix.net/en/library/plant-diseases/300001/fire-blight/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bacterial Blight of Soybean",
+    "scientific_name": "Pseudomonas savastanoi pv. glycinea",
+    "url": "https://plantix.net/en/library/plant-diseases/300030/bacterial-blight-of-soybean/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Black Spot Disease of Papaya",
+    "scientific_name": "Asperisporium caricae",
+    "url": "https://plantix.net/en/library/plant-diseases/100158/black-spot-disease-of-papaya/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Blight of Pepper",
+    "scientific_name": "Phytophthora capsici",
+    "url": "https://plantix.net/en/library/plant-diseases/100155/blight-of-pepper/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Eyespot of Maize",
+    "scientific_name": "Kabatiella zeae",
+    "url": "https://plantix.net/en/library/plant-diseases/100176/eyespot-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Red Mite",
+    "scientific_name": "Panonychus citri",
+    "url": "https://plantix.net/en/library/plant-diseases/500007/citrus-red-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Angular Leaf Scorch",
+    "scientific_name": "Pseudopezicula tetraspora",
+    "url": "https://plantix.net/en/library/plant-diseases/800074/angular-leaf-scorch/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Potato Beetle",
+    "scientific_name": "Leptinotarsa decemlineata",
+    "url": "https://plantix.net/en/library/plant-diseases/600029/potato-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bacterial Leaf Streak",
+    "scientific_name": "Xanthomonas oryzae pv. oryzicola",
+    "url": "https://plantix.net/en/library/plant-diseases/300015/bacterial-leaf-streak/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Stink Bugs on Maize, Millet and Sorghum",
+    "scientific_name": "Euschistus spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600051/stink-bugs-on-maize-millet-and-sorghum/",
+    "type": "Insect"
+  },
+  {
+    "name": "Peach Scab",
+    "scientific_name": "Venturia carpophila",
+    "url": "https://plantix.net/en/library/plant-diseases/100020/peach-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Alternaria Brown Spot",
+    "scientific_name": "Alternaria alternata",
+    "url": "https://plantix.net/en/library/plant-diseases/100121/alternaria-brown-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "European Maize Borer",
+    "scientific_name": "Ostrinia nubilalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600082/european-maize-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Peach Leaf Curl",
+    "scientific_name": "Taphrina deformans",
+    "url": "https://plantix.net/en/library/plant-diseases/100014/peach-leaf-curl/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Verticillium Wilt",
+    "scientific_name": "Verticillium spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100022/verticillium-wilt/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Maize Earworm",
+    "scientific_name": "Helicoverpa zea",
+    "url": "https://plantix.net/en/library/plant-diseases/600040/maize-earworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Head Smut",
+    "scientific_name": "Sphacelotheca reiliana",
+    "url": "https://plantix.net/en/library/plant-diseases/100051/head-smut/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Clubroot",
+    "scientific_name": "Plasmodiophora brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/100035/clubroot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Angular Leaf Spot Disease",
+    "scientific_name": "Pseudomonas syringae",
+    "url": "https://plantix.net/en/library/plant-diseases/300007/angular-leaf-spot-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Phaeosphaeria Leaf Spot",
+    "scientific_name": "Phaeosphaeria maydis",
+    "url": "https://plantix.net/en/library/plant-diseases/100160/phaeosphaeria-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Downy Mildew",
+    "scientific_name": "Peronosporales",
+    "url": "https://plantix.net/en/library/plant-diseases/100003/downy-mildew/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Nitrogen Deficiency",
+    "scientific_name": "Nitrogen Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700006/nitrogen-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Bean Leaf Beetle",
+    "scientific_name": "Cerotoma trifurcata",
+    "url": "https://plantix.net/en/library/plant-diseases/600095/bean-leaf-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Hindu Mite",
+    "scientific_name": "Schizotetranychus hindustanicus",
+    "url": "https://plantix.net/en/library/plant-diseases/800090/citrus-hindu-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Blossom End Rot",
+    "scientific_name": "Blossom End Rot",
+    "url": "https://plantix.net/en/library/plant-diseases/700001/blossom-end-rot/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Halo Blight",
+    "scientific_name": "Pseudomonas savastanoi pv. phaseolicola",
+    "url": "https://plantix.net/en/library/plant-diseases/300005/halo-blight/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Phosphorus Deficiency",
+    "scientific_name": "Phosphorus Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700005/phosphorus-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Anthracnose of Apple",
+    "scientific_name": "Neofabraea malicorticis",
+    "url": "https://plantix.net/en/library/plant-diseases/100185/anthracnose-of-apple/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Curculio Weevil",
+    "scientific_name": "Otiorhynchus cribricollis",
+    "url": "https://plantix.net/en/library/plant-diseases/600178/curculio-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Magnesium Deficiency",
+    "scientific_name": "Magnesium Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700004/magnesium-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Silver Leaf",
+    "scientific_name": "Chondrostereum purpureum",
+    "url": "https://plantix.net/en/library/plant-diseases/100012/silver-leaf/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Boron Deficiency",
+    "scientific_name": "Boron Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700049/boron-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Grape Tortrix Moth",
+    "scientific_name": "Argyrotaenia ljungiana",
+    "url": "https://plantix.net/en/library/plant-diseases/600064/grape-tortrix-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Oriental Fruit Moth",
+    "scientific_name": "Grapholita molesta",
+    "url": "https://plantix.net/en/library/plant-diseases/600084/oriental-fruit-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Fruit Tree Leafroller",
+    "scientific_name": "Archips argyrospila",
+    "url": "https://plantix.net/en/library/plant-diseases/600159/fruit-tree-leafroller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Gall Mite",
+    "scientific_name": "Eriophyidae",
+    "url": "https://plantix.net/en/library/plant-diseases/500002/gall-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Bacterial Canker",
+    "scientific_name": "Pseudomonas syringae pv. syringae",
+    "url": "https://plantix.net/en/library/plant-diseases/300004/bacterial-canker/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Manganese Deficiency",
+    "scientific_name": "Manganese Deficiency",
+    "url": "https://plantix.net/en/library/plant-diseases/700009/manganese-deficiency/",
+    "type": "Deficiency"
+  },
+  {
+    "name": "Fruit Tree Canker",
+    "scientific_name": "Neonectria ditissima",
+    "url": "https://plantix.net/en/library/plant-diseases/100005/fruit-tree-canker/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Dead Arm",
+    "scientific_name": "Eutypa lata",
+    "url": "https://plantix.net/en/library/plant-diseases/100136/dead-arm/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Western Plant Bug",
+    "scientific_name": "Lygus hesperus",
+    "url": "https://plantix.net/en/library/plant-diseases/800071/western-plant-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Winter Moth",
+    "scientific_name": "Operophtera brumata",
+    "url": "https://plantix.net/en/library/plant-diseases/600004/winter-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Ermine Moth",
+    "scientific_name": "Yponomeutidae",
+    "url": "https://plantix.net/en/library/plant-diseases/600007/ermine-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Fruit Tree Bark Beetle",
+    "scientific_name": "Scolytus mali",
+    "url": "https://plantix.net/en/library/plant-diseases/600011/fruit-tree-bark-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Herbicide Burn",
+    "scientific_name": "Herbicides Cell Membrane Disruptors",
+    "url": "https://plantix.net/en/library/plant-diseases/900033/herbicide-burn/",
+    "type": "Other"
+  },
+  {
+    "name": "Wind Damage on Cucumber",
+    "scientific_name": "Wind Damage on Cucumber",
+    "url": "https://plantix.net/en/library/plant-diseases/900025/wind-damage-on-cucumber/",
+    "type": "Other"
+  },
+  {
+    "name": "Citrus Leprosis",
+    "scientific_name": "Citrus leprosis virus sensu lato",
+    "url": "https://plantix.net/en/library/plant-diseases/200026/citrus-leprosis/",
+    "type": "Virus"
+  },
+  {
+    "name": "Peach Twig Borer",
+    "scientific_name": "Anarsia lineatella",
+    "url": "https://plantix.net/en/library/plant-diseases/600085/peach-twig-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Oleander Scale",
+    "scientific_name": "Aspidiotus nerii",
+    "url": "https://plantix.net/en/library/plant-diseases/600077/oleander-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Alternaria Leaf Spot Peanut",
+    "scientific_name": "Alternaria spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100184/alternaria-leaf-spot-peanut/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Udbatta Disease of Rice",
+    "scientific_name": "Balansia oryzae-sativae",
+    "url": "https://plantix.net/en/library/plant-diseases/100181/udbatta-disease-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cassava mosaic disease",
+    "scientific_name": "CMD",
+    "url": "https://plantix.net/en/library/plant-diseases/200042/cassava-mosaic-disease/",
+    "type": "Virus"
+  },
+  {
+    "name": "Sunburn in Pistachio",
+    "scientific_name": "Abiotic Sunburn",
+    "url": "https://plantix.net/en/library/plant-diseases/800078/sunburn-in-pistachio/",
+    "type": "Other"
+  },
+  {
+    "name": "Banana Xanthomonas Wilt",
+    "scientific_name": "Xanthomonas campestris pv. musacearum",
+    "url": "https://plantix.net/en/library/plant-diseases/300047/banana-xanthomonas-wilt/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bean Leafroller",
+    "scientific_name": "Urbanus proteus",
+    "url": "https://plantix.net/en/library/plant-diseases/600090/bean-leafroller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Gummy Stem Blight of Cucurbits",
+    "scientific_name": "Stagonosporopsis cucurbitacearum",
+    "url": "https://plantix.net/en/library/plant-diseases/100233/gummy-stem-blight-of-cucurbits/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wheat Dwarf Virus",
+    "scientific_name": "WDV",
+    "url": "https://plantix.net/en/library/plant-diseases/200038/wheat-dwarf-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Black Rot of Pineapple",
+    "scientific_name": "Ceratocystis paradoxa",
+    "url": "https://plantix.net/en/library/plant-diseases/100154/black-rot-of-pineapple/",
+    "type": "Fungus"
+  },
+  {
+    "name": "European Earwig",
+    "scientific_name": "Forficula auricularia",
+    "url": "https://plantix.net/en/library/plant-diseases/800070/european-earwig/",
+    "type": "Insect"
+  },
+  {
+    "name": "Stem and Root Rot of Soybean",
+    "scientific_name": "Phytophthora sojae",
+    "url": "https://plantix.net/en/library/plant-diseases/100175/stem-and-root-rot-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Northern Stem Canker",
+    "scientific_name": "Diaporthe caulivora",
+    "url": "https://plantix.net/en/library/plant-diseases/100172/northern-stem-canker/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tomato Russeting",
+    "scientific_name": "Fruit Deformation",
+    "url": "https://plantix.net/en/library/plant-diseases/900017/tomato-russeting/",
+    "type": "Other"
+  },
+  {
+    "name": "Northern Leaf Spot of Maize",
+    "scientific_name": "Cochliobolus carbonum",
+    "url": "https://plantix.net/en/library/plant-diseases/100166/northern-leaf-spot-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Take All",
+    "scientific_name": "Gaeumannomyces graminis",
+    "url": "https://plantix.net/en/library/plant-diseases/100165/take-all/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bean Shoot Borer",
+    "scientific_name": "Epinotia aporema",
+    "url": "https://plantix.net/en/library/plant-diseases/600102/bean-shoot-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Almond Bark Beetle",
+    "scientific_name": "Scolytus amygdali",
+    "url": "https://plantix.net/en/library/plant-diseases/600081/almond-bark-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Olive Scale",
+    "scientific_name": "Parlatoria oleae",
+    "url": "https://plantix.net/en/library/plant-diseases/600078/olive-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Olive Bark Beetle",
+    "scientific_name": "Phloeotribus scarabaeoides",
+    "url": "https://plantix.net/en/library/plant-diseases/600075/olive-bark-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Olive Fruit Fly",
+    "scientific_name": "Bactrocera oleae",
+    "url": "https://plantix.net/en/library/plant-diseases/600070/olive-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Jasmine Moth",
+    "scientific_name": "Palpita unionalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600074/jasmine-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Olive Moth",
+    "scientific_name": "Prays oleae",
+    "url": "https://plantix.net/en/library/plant-diseases/600073/olive-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Black Scale",
+    "scientific_name": "Saissetia oleae",
+    "url": "https://plantix.net/en/library/plant-diseases/600072/black-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pear Leaf Blister Mite",
+    "scientific_name": "Eriophyes pyri",
+    "url": "https://plantix.net/en/library/plant-diseases/500005/pear-leaf-blister-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Grape Berry Moth",
+    "scientific_name": "Lobesia botrana",
+    "url": "https://plantix.net/en/library/plant-diseases/600066/grape-berry-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Apricot Chlorotic Leaf Roll",
+    "scientific_name": "Phytoplasma prunorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100230/apricot-chlorotic-leaf-roll/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Grape Bud Moth",
+    "scientific_name": "Eupoecilia ambiguella",
+    "url": "https://plantix.net/en/library/plant-diseases/600065/grape-bud-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Chlorotic Dwarf Virus",
+    "scientific_name": "CCDV",
+    "url": "https://plantix.net/en/library/plant-diseases/200032/citrus-chlorotic-dwarf-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bacterial Leaf Streak of Maize",
+    "scientific_name": "Xanthomonas vasicola pv. vasculorum",
+    "url": "https://plantix.net/en/library/plant-diseases/300053/bacterial-leaf-streak-of-maize/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Maize Bushy Stunt Phytoplasma",
+    "scientific_name": "Phytoplasma asteris",
+    "url": "https://plantix.net/en/library/plant-diseases/300045/maize-bushy-stunt-phytoplasma/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Maize Lethal Necrosis Disease",
+    "scientific_name": "MLND",
+    "url": "https://plantix.net/en/library/plant-diseases/200022/maize-lethal-necrosis-disease/",
+    "type": "Virus"
+  },
+  {
+    "name": "Carrot Fly",
+    "scientific_name": "Chamaepsila rosae",
+    "url": "https://plantix.net/en/library/plant-diseases/600025/carrot-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pistachio Beetle",
+    "scientific_name": "Chaetoptelius vestitus",
+    "url": "https://plantix.net/en/library/plant-diseases/600165/pistachio-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Castor Semilooper",
+    "scientific_name": "Ophiusa melicerta",
+    "url": "https://plantix.net/en/library/plant-diseases/600141/castor-semilooper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Strawberry Blossom Weevil",
+    "scientific_name": "Anthonomus rubi",
+    "url": "https://plantix.net/en/library/plant-diseases/600023/strawberry-blossom-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Armillaria Root Rot",
+    "scientific_name": "Armillaria mellea",
+    "url": "https://plantix.net/en/library/plant-diseases/800068/armillaria-root-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Grapevine Leafroll",
+    "scientific_name": "GLD",
+    "url": "https://plantix.net/en/library/plant-diseases/200030/grapevine-leafroll/",
+    "type": "Virus"
+  },
+  {
+    "name": "Jacket Rot",
+    "scientific_name": "Monilinia spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/800069/jacket-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Almond",
+    "scientific_name": "Colletotrichum acutatum",
+    "url": "https://plantix.net/en/library/plant-diseases/100144/anthracnose-of-almond/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Crown Rust of Grasses",
+    "scientific_name": "Puccinia coronata",
+    "url": "https://plantix.net/en/library/plant-diseases/100228/crown-rust-of-grasses/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Sugarcane Ratoon Stunting Disease",
+    "scientific_name": "Leifsonia xyli",
+    "url": "https://plantix.net/en/library/plant-diseases/300026/sugarcane-ratoon-stunting-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Rice Stalk Stinkbug",
+    "scientific_name": "Tibraca limbativentris",
+    "url": "https://plantix.net/en/library/plant-diseases/800020/rice-stalk-stinkbug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Rice Grasshopper",
+    "scientific_name": "Oxya intricata",
+    "url": "https://plantix.net/en/library/plant-diseases/800061/rice-grasshopper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Slugs and Snails",
+    "scientific_name": "Gastropoda",
+    "url": "https://plantix.net/en/library/plant-diseases/800002/slugs-and-snails/",
+    "type": "Other"
+  },
+  {
+    "name": "Citrus Stubborn Disease",
+    "scientific_name": "Spiroplasma citri",
+    "url": "https://plantix.net/en/library/plant-diseases/300017/citrus-stubborn-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Stink Bugs on Soybean",
+    "scientific_name": "Acrosternum hilare",
+    "url": "https://plantix.net/en/library/plant-diseases/600045/stink-bugs-on-soybean/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cassava Bacterial Blight",
+    "scientific_name": "Xanthomonas axonopodis pv. manihotis",
+    "url": "https://plantix.net/en/library/plant-diseases/300039/cassava-bacterial-blight/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Citrus Variegated Chlorosis",
+    "scientific_name": "Xylella fastidiosa subsp. pauca",
+    "url": "https://plantix.net/en/library/plant-diseases/300019/citrus-variegated-chlorosis/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Head Miner",
+    "scientific_name": "Heliocheilus albipunctella",
+    "url": "https://plantix.net/en/library/plant-diseases/600013/head-miner/",
+    "type": "Insect"
+  },
+  {
+    "name": "Olive Knot",
+    "scientific_name": "Pseudomonas savastanoi pv. savastanoi",
+    "url": "https://plantix.net/en/library/plant-diseases/300023/olive-knot/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Angular Leaf Spot of Strawberry",
+    "scientific_name": "Xanthomonas fragariae",
+    "url": "https://plantix.net/en/library/plant-diseases/300011/angular-leaf-spot-of-strawberry/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Grape Blister Mite",
+    "scientific_name": "Colomerus vitis",
+    "url": "https://plantix.net/en/library/plant-diseases/500014/grape-blister-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Red Stripe Disease",
+    "scientific_name": "Gonatophragmium sp.",
+    "url": "https://plantix.net/en/library/plant-diseases/800054/red-stripe-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Dry Root Rot of Bean",
+    "scientific_name": "Fusarium solani f. sp. phaseoli",
+    "url": "https://plantix.net/en/library/plant-diseases/100114/dry-root-rot-of-bean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Brown Stink Bug",
+    "scientific_name": "Euschistus servus",
+    "url": "https://plantix.net/en/library/plant-diseases/600050/brown-stink-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Citrus Exocortis Viroid",
+    "scientific_name": "CEVd",
+    "url": "https://plantix.net/en/library/plant-diseases/200028/citrus-exocortis-viroid/",
+    "type": "Virus"
+  },
+  {
+    "name": "Brown Leaf Spot",
+    "scientific_name": "Mycosphaerella henningsii",
+    "url": "https://plantix.net/en/library/plant-diseases/800042/brown-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Aster Yellows Phytoplasma",
+    "scientific_name": "Phytoplasma asteris",
+    "url": "https://plantix.net/en/library/plant-diseases/300037/aster-yellows-phytoplasma/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Rice Leaf Mite",
+    "scientific_name": "Oligonychus oryzae",
+    "url": "https://plantix.net/en/library/plant-diseases/800063/rice-leaf-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Cassava Bud Necrosis",
+    "scientific_name": "Unknown Pathogen",
+    "url": "https://plantix.net/en/library/plant-diseases/800044/cassava-bud-necrosis/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Blast of Citrus",
+    "scientific_name": "Pseudomonas syringae pv. syringae",
+    "url": "https://plantix.net/en/library/plant-diseases/300038/blast-of-citrus/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Leaf Stripe of Barley",
+    "scientific_name": "Pyrenophora graminea",
+    "url": "https://plantix.net/en/library/plant-diseases/100227/leaf-stripe-of-barley/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Stem Borer",
+    "scientific_name": "Coniesta ignefusalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600014/stem-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Golden Apple Snail",
+    "scientific_name": "Pomacea canaliculata",
+    "url": "https://plantix.net/en/library/plant-diseases/800019/golden-apple-snail/",
+    "type": "Other"
+  },
+  {
+    "name": "Leek Rust",
+    "scientific_name": "Puccinia porri",
+    "url": "https://plantix.net/en/library/plant-diseases/100050/leek-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Stem Rot of Tomato",
+    "scientific_name": "Didymella lycopersici",
+    "url": "https://plantix.net/en/library/plant-diseases/100048/stem-rot-of-tomato/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Southern Armyworm",
+    "scientific_name": "Spodoptera eridania",
+    "url": "https://plantix.net/en/library/plant-diseases/600043/southern-armyworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Melanose",
+    "scientific_name": "Diaporthe citri",
+    "url": "https://plantix.net/en/library/plant-diseases/100128/melanose/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Flatid Plant Hopper",
+    "scientific_name": "Metcalfa pruinosa",
+    "url": "https://plantix.net/en/library/plant-diseases/600060/citrus-flatid-plant-hopper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Powdery Mildew of Strawberry",
+    "scientific_name": "Podosphaera aphanis",
+    "url": "https://plantix.net/en/library/plant-diseases/100027/powdery-mildew-of-strawberry/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Dieback of Stone Fruit",
+    "scientific_name": "Valsa cincta",
+    "url": "https://plantix.net/en/library/plant-diseases/800073/dieback-of-stone-fruit/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Angular Leaf Spot",
+    "scientific_name": "Mycosphaerella angulata",
+    "url": "https://plantix.net/en/library/plant-diseases/100135/angular-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Raspberry Spur Blight",
+    "scientific_name": "Didymella applanata",
+    "url": "https://plantix.net/en/library/plant-diseases/100026/raspberry-spur-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Soybean Stalk Weevil",
+    "scientific_name": "Sternechus subsignatus",
+    "url": "https://plantix.net/en/library/plant-diseases/600100/soybean-stalk-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "American Gooseberry Mildew",
+    "scientific_name": "Podosphaera mors-uvae",
+    "url": "https://plantix.net/en/library/plant-diseases/100024/american-gooseberry-mildew/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Valsa Disease",
+    "scientific_name": "Valsa leucostoma",
+    "url": "https://plantix.net/en/library/plant-diseases/100021/valsa-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Septoria Spot",
+    "scientific_name": "Septoria citri",
+    "url": "https://plantix.net/en/library/plant-diseases/100130/septoria-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Olive Borer",
+    "scientific_name": "Hylesinus toranio",
+    "url": "https://plantix.net/en/library/plant-diseases/600076/olive-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Grapevine Leafroller",
+    "scientific_name": "Sparganothis pilleriana",
+    "url": "https://plantix.net/en/library/plant-diseases/600068/grapevine-leafroller/",
+    "type": "Insect"
+  },
+  {
+    "name": "Powdery Scab",
+    "scientific_name": "Spongospora subterranea",
+    "url": "https://plantix.net/en/library/plant-diseases/100041/powdery-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Root Rot of Olive",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100150/root-rot-of-olive/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Constriction Canker",
+    "scientific_name": "Phomopsis amygdali",
+    "url": "https://plantix.net/en/library/plant-diseases/100149/constriction-canker/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Banana Moth",
+    "scientific_name": "Opogona sacchari",
+    "url": "https://plantix.net/en/library/plant-diseases/800021/banana-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cucumber Scab",
+    "scientific_name": "Cladosporium cucumerinum",
+    "url": "https://plantix.net/en/library/plant-diseases/100039/cucumber-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mal Secco",
+    "scientific_name": "Phoma tracheiphila",
+    "url": "https://plantix.net/en/library/plant-diseases/100127/mal-secco/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Boll Weevil",
+    "scientific_name": "Anthonomus grandis",
+    "url": "https://plantix.net/en/library/plant-diseases/600052/boll-weevil/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pear Leaf Spot",
+    "scientific_name": "Diplocarpon maculatum",
+    "url": "https://plantix.net/en/library/plant-diseases/100018/pear-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rose Mildew",
+    "scientific_name": "Podosphaera pannosa",
+    "url": "https://plantix.net/en/library/plant-diseases/100147/rose-mildew/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Plum Rust",
+    "scientific_name": "Tranzschelia pruni spinosae",
+    "url": "https://plantix.net/en/library/plant-diseases/100017/plum-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Lime",
+    "scientific_name": "Glomerella acutata",
+    "url": "https://plantix.net/en/library/plant-diseases/100126/anthracnose-of-lime/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Tobacco Budworm",
+    "scientific_name": "Chloridea virescens",
+    "url": "https://plantix.net/en/library/plant-diseases/600044/tobacco-budworm/",
+    "type": "Insect"
+  },
+  {
+    "name": "Whorl Maggot",
+    "scientific_name": "Hydrellia philippina",
+    "url": "https://plantix.net/en/library/plant-diseases/800057/whorl-maggot/",
+    "type": "Insect"
+  },
+  {
+    "name": "Greasy Spot",
+    "scientific_name": "Mycosphaerella citri",
+    "url": "https://plantix.net/en/library/plant-diseases/100125/greasy-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Physiological Leaf Spot",
+    "scientific_name": "PLS",
+    "url": "https://plantix.net/en/library/plant-diseases/800049/physiological-leaf-spot/",
+    "type": "Other"
+  },
+  {
+    "name": "Shothole Disease",
+    "scientific_name": "Wilsonomyces carpophilus",
+    "url": "https://plantix.net/en/library/plant-diseases/100015/shothole-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Striga",
+    "scientific_name": "Striga hermonthica",
+    "url": "https://plantix.net/en/library/plant-diseases/400001/striga/",
+    "type": "Weed"
+  },
+  {
+    "name": "Moko Disease",
+    "scientific_name": "Ralstonia solanacearum",
+    "url": "https://plantix.net/en/library/plant-diseases/300016/moko-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bacterial Spot on Stone Fruits",
+    "scientific_name": "Xanthomonas arboricola",
+    "url": "https://plantix.net/en/library/plant-diseases/300024/bacterial-spot-on-stone-fruits/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Pocket Plum Gall",
+    "scientific_name": "Taphrina pruni",
+    "url": "https://plantix.net/en/library/plant-diseases/100013/pocket-plum-gall/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cherry Fruit Fly",
+    "scientific_name": "Rhagoletis cerasi",
+    "url": "https://plantix.net/en/library/plant-diseases/600012/cherry-fruit-fly/",
+    "type": "Insect"
+  },
+  {
+    "name": "White Pine Blister Rust",
+    "scientific_name": "Cronartium ribicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100023/white-pine-blister-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Poplar Lace bug",
+    "scientific_name": "Monosteira unicostata",
+    "url": "https://plantix.net/en/library/plant-diseases/600080/poplar-lace-bug/",
+    "type": "Insect"
+  },
+  {
+    "name": "Common Leaf Spot",
+    "scientific_name": "Mycosphaerella fragariae",
+    "url": "https://plantix.net/en/library/plant-diseases/100028/common-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Castor Hairy Caterpillar",
+    "scientific_name": "Pericallia ricini",
+    "url": "https://plantix.net/en/library/plant-diseases/600132/castor-hairy-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Iron Toxicity in Rice",
+    "scientific_name": "Iron Toxicity",
+    "url": "https://plantix.net/en/library/plant-diseases/900010/iron-toxicity-in-rice/",
+    "type": "Other"
+  },
+  {
+    "name": "European Pear Rust",
+    "scientific_name": "Gymnosporangium sabinae",
+    "url": "https://plantix.net/en/library/plant-diseases/100009/european-pear-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Stecklenberger Disease",
+    "scientific_name": "PNRSV Prunus necrotic ringspot virus",
+    "url": "https://plantix.net/en/library/plant-diseases/200002/stecklenberger-disease/",
+    "type": "Virus"
+  },
+  {
+    "name": "Bean Leaf Webber",
+    "scientific_name": "Hedylepta indicata",
+    "url": "https://plantix.net/en/library/plant-diseases/600099/bean-leaf-webber/",
+    "type": "Insect"
+  },
+  {
+    "name": "Fertilizer Burn",
+    "scientific_name": "Fertilizer Burn",
+    "url": "https://plantix.net/en/library/plant-diseases/800010/fertilizer-burn/",
+    "type": "Other"
+  },
+  {
+    "name": "Red Palm Mite",
+    "scientific_name": "Raoiella indica",
+    "url": "https://plantix.net/en/library/plant-diseases/500016/red-palm-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Papaya Leaf Curl Virus",
+    "scientific_name": "PaLCV",
+    "url": "https://plantix.net/en/library/plant-diseases/200016/papaya-leaf-curl-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Sugarcane Borer",
+    "scientific_name": "Diatraea saccharalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600086/sugarcane-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Esca",
+    "scientific_name": "Togninia minima",
+    "url": "https://plantix.net/en/library/plant-diseases/100140/esca/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Ramularia Leaf Spot",
+    "scientific_name": "Ramularia collo-cygni",
+    "url": "https://plantix.net/en/library/plant-diseases/100098/ramularia-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Holcus Leaf Spot",
+    "scientific_name": "Pseudomonas syringae pv. syringae",
+    "url": "https://plantix.net/en/library/plant-diseases/300002/holcus-leaf-spot/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Bacterial Fruit Blotch",
+    "scientific_name": "Acidovorax citrulli",
+    "url": "https://plantix.net/en/library/plant-diseases/300046/bacterial-fruit-blotch/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Greenhorned Caterpillars",
+    "scientific_name": "Melanitis leda",
+    "url": "https://plantix.net/en/library/plant-diseases/800060/greenhorned-caterpillars/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cherry Leaf Scorch",
+    "scientific_name": "Apiognomonia erythrostoma",
+    "url": "https://plantix.net/en/library/plant-diseases/100019/cherry-leaf-scorch/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Olive Bud Mite",
+    "scientific_name": "Oxycenus maxwelli",
+    "url": "https://plantix.net/en/library/plant-diseases/500009/olive-bud-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Cassava Scale",
+    "scientific_name": "Aonidomytilus albus",
+    "url": "https://plantix.net/en/library/plant-diseases/800047/cassava-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Crown Gall",
+    "scientific_name": "Agrobacterium",
+    "url": "https://plantix.net/en/library/plant-diseases/300022/crown-gall/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Black Spot Disease",
+    "scientific_name": "Colletotrichum lindemuthianum",
+    "url": "https://plantix.net/en/library/plant-diseases/100031/black-spot-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rhizome Rot of Strawberry",
+    "scientific_name": "Phytophthora cactorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100029/rhizome-rot-of-strawberry/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cucumber Beetle",
+    "scientific_name": "Diabrotica spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600088/cucumber-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Anthracnose of Currant and Gooseberry",
+    "scientific_name": "Drepanopeziza ribis",
+    "url": "https://plantix.net/en/library/plant-diseases/100030/anthracnose-of-currant-and-gooseberry/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phytophthora Crown and Root Rot",
+    "scientific_name": "Phytophthora spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100139/phytophthora-crown-and-root-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cabbage Moth",
+    "scientific_name": "Mamestra brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/600026/cabbage-moth/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pistachio Seed Wasp",
+    "scientific_name": "Eurytoma plotnikovi",
+    "url": "https://plantix.net/en/library/plant-diseases/600164/pistachio-seed-wasp/",
+    "type": "Insect"
+  },
+  {
+    "name": "Almond Red Leaf Blotch",
+    "scientific_name": "Polystigma ochraceum",
+    "url": "https://plantix.net/en/library/plant-diseases/100143/almond-red-leaf-blotch/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Lettuce Big-Vein Disease",
+    "scientific_name": "Olpidium brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/100036/lettuce-big-vein-disease/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Olive Leaf Spot",
+    "scientific_name": "Fusicladium oleagineum",
+    "url": "https://plantix.net/en/library/plant-diseases/100145/olive-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Spotted Maize Beetle",
+    "scientific_name": "Astylus atromaculatus",
+    "url": "https://plantix.net/en/library/plant-diseases/600196/spotted-maize-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Blossom Blight",
+    "scientific_name": "Monilinia fructicola",
+    "url": "https://plantix.net/en/library/plant-diseases/100146/blossom-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Seed Borer",
+    "scientific_name": "Deanolis albizonalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600125/mango-seed-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Banana Fruit-Scarring Beetle",
+    "scientific_name": "Colaspis hypochlora",
+    "url": "https://plantix.net/en/library/plant-diseases/600172/banana-fruit-scarring-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cercospora Leaf Spot of Olive",
+    "scientific_name": "Pseudocercospora cladosporioides",
+    "url": "https://plantix.net/en/library/plant-diseases/100142/cercospora-leaf-spot-of-olive/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Twig Canker of Peach",
+    "scientific_name": "Phomopsis amygdali",
+    "url": "https://plantix.net/en/library/plant-diseases/800072/twig-canker-of-peach/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bright Line Brown Eye",
+    "scientific_name": "Lacanobia oleracea",
+    "url": "https://plantix.net/en/library/plant-diseases/600027/bright-line-brown-eye/",
+    "type": "Insect"
+  },
+  {
+    "name": "Penicillium ear rot",
+    "scientific_name": "Penicillium spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/100053/penicillium-ear-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Green Paddy Leafhoppers",
+    "scientific_name": "Nephotettix spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/600108/green-paddy-leafhoppers/",
+    "type": "Insect"
+  },
+  {
+    "name": "Bottom Rot",
+    "scientific_name": "Thanatephorus cucumeris",
+    "url": "https://plantix.net/en/library/plant-diseases/100045/bottom-rot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Leaf Spot of Citrus",
+    "scientific_name": "Pseudocercospora angolensis",
+    "url": "https://plantix.net/en/library/plant-diseases/100189/leaf-spot-of-citrus/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Cotton",
+    "scientific_name": "Glomerella gossypii",
+    "url": "https://plantix.net/en/library/plant-diseases/100105/anthracnose-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Leaf Curl in Tomato",
+    "scientific_name": "Physiological Disorder",
+    "url": "https://plantix.net/en/library/plant-diseases/800103/leaf-curl-in-tomato/",
+    "type": "Other"
+  },
+  {
+    "name": "Yellow Vine Mite",
+    "scientific_name": "Eotetranychus carpini",
+    "url": "https://plantix.net/en/library/plant-diseases/500008/yellow-vine-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Cassava Green Spider Mite",
+    "scientific_name": "Mononychellus tanajoa",
+    "url": "https://plantix.net/en/library/plant-diseases/800045/cassava-green-spider-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Tropical Rust",
+    "scientific_name": "Physopella zeae",
+    "url": "https://plantix.net/en/library/plant-diseases/100101/tropical-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Bacterial Spot of Citrus",
+    "scientific_name": "Xanthomonas alfalfae subsp. citrumelonis",
+    "url": "https://plantix.net/en/library/plant-diseases/300018/bacterial-spot-of-citrus/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Cassava Phytoplasma Disease",
+    "scientific_name": "Phytoplasma spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/800052/cassava-phytoplasma-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Rough Leaf Spot Of Sorghum",
+    "scientific_name": "Ascochyta sorghi",
+    "url": "https://plantix.net/en/library/plant-diseases/100088/rough-leaf-spot-of-sorghum/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Lesser Stalk Borer of Maize",
+    "scientific_name": "Elasmopalpus lignosellus",
+    "url": "https://plantix.net/en/library/plant-diseases/600047/lesser-stalk-borer-of-maize/",
+    "type": "Insect"
+  },
+  {
+    "name": "Stunt of Maize",
+    "scientific_name": "Spiroplasma kunkelii",
+    "url": "https://plantix.net/en/library/plant-diseases/300036/stunt-of-maize/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Grape Rust Mite",
+    "scientific_name": "Calepitrimerus vitis",
+    "url": "https://plantix.net/en/library/plant-diseases/500015/grape-rust-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Zonate Leaf Spot",
+    "scientific_name": "Gloeocercospora sorghi",
+    "url": "https://plantix.net/en/library/plant-diseases/100090/zonate-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Millet Cercospora Leaf Spot",
+    "scientific_name": "Cercospora penniseti",
+    "url": "https://plantix.net/en/library/plant-diseases/100091/millet-cercospora-leaf-spot/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Olive Psyllid",
+    "scientific_name": "Euphyllura olivina",
+    "url": "https://plantix.net/en/library/plant-diseases/600071/olive-psyllid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Leaf and Glume Blotch of Wheat",
+    "scientific_name": "Parastagonospora nodorum",
+    "url": "https://plantix.net/en/library/plant-diseases/100094/leaf-and-glume-blotch-of-wheat/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rhynchosporium",
+    "scientific_name": "Rhynchosporium secalis",
+    "url": "https://plantix.net/en/library/plant-diseases/100095/rhynchosporium/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Net Blotch",
+    "scientific_name": "Pyrenophora teres",
+    "url": "https://plantix.net/en/library/plant-diseases/100096/net-blotch/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Millet Rust",
+    "scientific_name": "Puccinia substriata",
+    "url": "https://plantix.net/en/library/plant-diseases/100089/millet-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Mango Fruit Borer",
+    "scientific_name": "Citripestis eutraphera",
+    "url": "https://plantix.net/en/library/plant-diseases/600128/mango-fruit-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Watermelon Mosaic Virus",
+    "scientific_name": "WMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200048/watermelon-mosaic-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Demerara Froghopper",
+    "scientific_name": "Deois flavopicta ",
+    "url": "https://plantix.net/en/library/plant-diseases/600130/demerara-froghopper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Cercospora Leaf Spot of Beet",
+    "scientific_name": "Cercospora beticola",
+    "url": "https://plantix.net/en/library/plant-diseases/100238/cercospora-leaf-spot-of-beet/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phoma Sorghina in Rice",
+    "scientific_name": "Epicoccum sorghi",
+    "url": "https://plantix.net/en/library/plant-diseases/100194/phoma-sorghina-in-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Banana Rust Thrips",
+    "scientific_name": "Chaetanaphothrips signipennis",
+    "url": "https://plantix.net/en/library/plant-diseases/600131/banana-rust-thrips/",
+    "type": "Insect"
+  },
+  {
+    "name": "Black Leaf Spot of Banana",
+    "scientific_name": "Deightoniella torulosa",
+    "url": "https://plantix.net/en/library/plant-diseases/100196/black-leaf-spot-of-banana/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Gibberella Stalk Rot of Maize",
+    "scientific_name": "Gibberella zeae",
+    "url": "https://plantix.net/en/library/plant-diseases/100198/gibberella-stalk-rot-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Long Smut of Sorghum",
+    "scientific_name": "Tolyposporium ehrenbergii",
+    "url": "https://plantix.net/en/library/plant-diseases/100199/long-smut-of-sorghum/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Paddy Swarming Caterpillar",
+    "scientific_name": "Spodoptera mauritia",
+    "url": "https://plantix.net/en/library/plant-diseases/600138/paddy-swarming-caterpillar/",
+    "type": "Insect"
+  },
+  {
+    "name": "Ramularia Leaf Spot of Beet",
+    "scientific_name": "Ramularia beticola",
+    "url": "https://plantix.net/en/library/plant-diseases/100239/ramularia-leaf-spot-of-beet/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Black Shank",
+    "scientific_name": "Phytophthora nicotianae",
+    "url": "https://plantix.net/en/library/plant-diseases/100206/black-shank/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Dry Root Rot of Chickpea",
+    "scientific_name": "Macrophomina phaseolina",
+    "url": "https://plantix.net/en/library/plant-diseases/100325/dry-root-rot-of-chickpea/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Soreshin",
+    "scientific_name": "Rhizoctonia solani",
+    "url": "https://plantix.net/en/library/plant-diseases/100111/soreshin/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Pear Scab",
+    "scientific_name": "Venturia pyrina",
+    "url": "https://plantix.net/en/library/plant-diseases/100007/pear-scab/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Anthracnose of Lentil",
+    "scientific_name": "Colletotrichum truncatum",
+    "url": "https://plantix.net/en/library/plant-diseases/100210/anthracnose-of-lentil/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Ascochyta Blight of Lentil",
+    "scientific_name": "Didymella fabae",
+    "url": "https://plantix.net/en/library/plant-diseases/100211/ascochyta-blight-of-lentil/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Lentil Rust",
+    "scientific_name": "Uromyces viciae-fabae",
+    "url": "https://plantix.net/en/library/plant-diseases/100213/lentil-rust/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Botrytis Blight in Lettuce",
+    "scientific_name": "Botrytis cinerea",
+    "url": "https://plantix.net/en/library/plant-diseases/100217/botrytis-blight-in-lettuce/",
+    "type": "Fungus"
+  },
+  {
+    "name": "White Leaf Spot of Cassava",
+    "scientific_name": "Phaeoramularia manihotis",
+    "url": "https://plantix.net/en/library/plant-diseases/100218/white-leaf-spot-of-cassava/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Clubroot of Canola",
+    "scientific_name": "Plasmodiophora brassicae",
+    "url": "https://plantix.net/en/library/plant-diseases/100219/clubroot-of-canola/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Alkalinity",
+    "scientific_name": "Alkalinity",
+    "url": "https://plantix.net/en/library/plant-diseases/800066/alkalinity/",
+    "type": "Other"
+  },
+  {
+    "name": "Maize Chlorotic Mottle Virus",
+    "scientific_name": "MCMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200046/maize-chlorotic-mottle-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Black Parlatoria Scale",
+    "scientific_name": "Parlatoria ziziphi",
+    "url": "https://plantix.net/en/library/plant-diseases/600158/black-parlatoria-scale/",
+    "type": "Insect"
+  },
+  {
+    "name": "Mealy Plum Aphid",
+    "scientific_name": "Hyalopterus pruni",
+    "url": "https://plantix.net/en/library/plant-diseases/600160/mealy-plum-aphid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Brown Spot of Maize",
+    "scientific_name": "Physoderma maydis",
+    "url": "https://plantix.net/en/library/plant-diseases/100236/brown-spot-of-maize/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Rice Skipper",
+    "scientific_name": "Pelopidas mathias",
+    "url": "https://plantix.net/en/library/plant-diseases/800056/rice-skipper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Chocolate Spot of Broad Bean",
+    "scientific_name": "Botrytis fabae",
+    "url": "https://plantix.net/en/library/plant-diseases/100252/chocolate-spot-of-broad-bean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Bud Mite",
+    "scientific_name": "Aceria sheldoni",
+    "url": "https://plantix.net/en/library/plant-diseases/500006/citrus-bud-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Pistachio Seed Chalcid",
+    "scientific_name": "Megastigmus pistaciae",
+    "url": "https://plantix.net/en/library/plant-diseases/600163/pistachio-seed-chalcid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Vine Flea Beetle",
+    "scientific_name": "Altica ampelophaga",
+    "url": "https://plantix.net/en/library/plant-diseases/600168/vine-flea-beetle/",
+    "type": "Insect"
+  },
+  {
+    "name": "Brown Mite",
+    "scientific_name": "Bryobia rubrioculus",
+    "url": "https://plantix.net/en/library/plant-diseases/500010/brown-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Freckle of Banana",
+    "scientific_name": "Phyllosticta maculata",
+    "url": "https://plantix.net/en/library/plant-diseases/100254/freckle-of-banana/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cercospora Leaf Spot of Cotton",
+    "scientific_name": "Mycosphaerella gossypina",
+    "url": "https://plantix.net/en/library/plant-diseases/100255/cercospora-leaf-spot-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Rust Mite",
+    "scientific_name": "Phyllocoptruta oleivora",
+    "url": "https://plantix.net/en/library/plant-diseases/500018/citrus-rust-mite/",
+    "type": "Mite"
+  },
+  {
+    "name": "Leaf Mold of Tomato",
+    "scientific_name": "Mycovellosiella fulva",
+    "url": "https://plantix.net/en/library/plant-diseases/100257/leaf-mold-of-tomato/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Redcurrant Blister Aphid",
+    "scientific_name": "Cryptomyzus ribis",
+    "url": "https://plantix.net/en/library/plant-diseases/600174/redcurrant-blister-aphid/",
+    "type": "Insect"
+  },
+  {
+    "name": "Rice Yellow Mottle Virus",
+    "scientific_name": "RYMV",
+    "url": "https://plantix.net/en/library/plant-diseases/200021/rice-yellow-mottle-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Leaf Spot of Pistachio",
+    "scientific_name": "Mycosphaerella pistacina",
+    "url": "https://plantix.net/en/library/plant-diseases/100258/leaf-spot-of-pistachio/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Citrus Psorosis Virus",
+    "scientific_name": "CPsV",
+    "url": "https://plantix.net/en/library/plant-diseases/200027/citrus-psorosis-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Alternaria Late Blight",
+    "scientific_name": "Alternaria alternata",
+    "url": "https://plantix.net/en/library/plant-diseases/100261/alternaria-late-blight/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Cotton Leaf Perforator",
+    "scientific_name": "Bucculatrix thurberiella",
+    "url": "https://plantix.net/en/library/plant-diseases/600177/cotton-leaf-perforator/",
+    "type": "Insect"
+  },
+  {
+    "name": "Pesticide Burn",
+    "scientific_name": "Pesticide Burn",
+    "url": "https://plantix.net/en/library/plant-diseases/900005/pesticide-burn/",
+    "type": "Other"
+  },
+  {
+    "name": "Maize Leaf Streak Virus",
+    "scientific_name": "MSV",
+    "url": "https://plantix.net/en/library/plant-diseases/200023/maize-leaf-streak-virus/",
+    "type": "Virus"
+  },
+  {
+    "name": "Cassava Brown Streak Disease",
+    "scientific_name": "CBSV",
+    "url": "https://plantix.net/en/library/plant-diseases/200043/cassava-brown-streak-disease/",
+    "type": "Virus"
+  },
+  {
+    "name": "Whitebacked Planthopper",
+    "scientific_name": "Sogatella furcifera",
+    "url": "https://plantix.net/en/library/plant-diseases/600191/whitebacked-planthopper/",
+    "type": "Insect"
+  },
+  {
+    "name": "Asiatic Rice Borer",
+    "scientific_name": "Chilo suppressalis",
+    "url": "https://plantix.net/en/library/plant-diseases/600192/asiatic-rice-borer/",
+    "type": "Insect"
+  },
+  {
+    "name": "Stemphylium Blight of Lentil",
+    "scientific_name": "Pleospora herbarum",
+    "url": "https://plantix.net/en/library/plant-diseases/100282/stemphylium-blight-of-lentil/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Wet Weather Blight of Cotton",
+    "scientific_name": "Ascochyta gossypii",
+    "url": "https://plantix.net/en/library/plant-diseases/100286/wet-weather-blight-of-cotton/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Downy Mildew of Soybean",
+    "scientific_name": "Peronospora manshurica",
+    "url": "https://plantix.net/en/library/plant-diseases/100289/downy-mildew-of-soybean/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Kernel Smut of Rice",
+    "scientific_name": "Tilletia barclayana",
+    "url": "https://plantix.net/en/library/plant-diseases/100290/kernel-smut-of-rice/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Leaf Blotch of Banana",
+    "scientific_name": "Cordana musae",
+    "url": "https://plantix.net/en/library/plant-diseases/100216/leaf-blotch-of-banana/",
+    "type": "Fungus"
+  },
+  {
+    "name": "Phony Peach Disease",
+    "scientific_name": "Xylella fastidiosa",
+    "url": "https://plantix.net/en/library/plant-diseases/300025/phony-peach-disease/",
+    "type": "Bacteria"
+  },
+  {
+    "name": "Biomphalaria Snail",
+    "scientific_name": "Biomphalaria spp.",
+    "url": "https://plantix.net/en/library/plant-diseases/800018/biomphalaria-snail/",
+    "type": "Other"
+  },
+  {
+    "name": "Brown Stem Rot of Soybean",
+    "scientific_name": "Cadophora gregata",
+    "url": "https://plantix.net/en/library/plant-diseases/100311/brown-stem-rot-of-soybean/",
+    "type": "Fungus"
+  }
+]
