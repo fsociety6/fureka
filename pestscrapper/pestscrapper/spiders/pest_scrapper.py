@@ -19,17 +19,21 @@ class QuotesSpider(scrapy.Spider):
         links=response.xpath('//app-filter-result/div/a/@href')
         for link in links:
             next_page = link.get()
+            img=link.xpath('/../div/div/img/@src')
+            src=img.get()
+            d={'src':src}
             if next_page is not None:
-                yield response.follow(next_page, callback=self.follow_link)
+                yield SeleniumRequest(url=next_page,callback=self.follow_link,wait_time=5,cb_kwargs=d)
             # yield {
             #     'name':name.xpath('.//div/div[2]/h2/text()').extract_first(),
             #     'scientific_name':name.xpath('.//div/div[2]/p/i/text()').extract_first(),
             #     'url': name.xpath('.//@href').extract_first(),
             #     'type':name.xpath('.//div/div[2]/div[1]/p/text()').extract_first(),
             # }
-    def follow_link(self,response):
+    def follow_link(self,response,d):
         yield {
             'name':response.xpath('//*[@id="overview"]/h3[1]/text()').extract_first(),
+            'img':d['src'],
             'scientific_name':response.xpath('//*[@id="overview"]/p/i/text()').extract_first(),
             'type':response.xpath('//*[@id="overview"]/div[1]/p/text()').extract_first(),
             'symptoms':response.xpath('//*[@id="pathogen-detail-wrapper"]/div[3]/div/div[2]/div[1]/p/text()').extract_first(),
