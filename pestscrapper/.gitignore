@@ -123,3 +123,4 @@ code.code-workspace
 #ignore moodle files
 moodle
 *.json
+*.log

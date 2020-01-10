@@ -1,20 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@pushpak1300 
-63
-805544scrapy/quotesbot
- Code Issues 0 Pull requests 5 Actions Projects 0 Wiki Security Insights
-quotesbot/.gitignore
-@redapple redapple Initial commit
-68b98d4 on 27 Sep 2016
-90 lines (71 sloc)  1.02 KB
- 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -122,3 +105,9 @@ code.code-workspace
 
 #ignore moodle files
 moodle
+moodle
+*.json
+*.log
+.json
+json
+w.json
